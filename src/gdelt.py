@@ -2,26 +2,33 @@ import requests
 
 
 
-def fetch_articles(query, timespan_unit = "m", timespan_value = 3):
+def fetch_data(query, mode="artlist", timespan="3m"):
     """
-    Fetches articles from the GDELT API based on the provided query.
+    Fetches data from the GDELT API based on the provided query, mode and timeframe.
     Args:
-        query (str): The search query to fetch articles for.
-        timespan_unit (str): The unit of the timespan (e.g., "m" for minutes, "h" for hours).
-        timespan_value (int): The value of the timespan.
+        query (str): The search query to fetch data for.
+        mode (str): The mode of data to fetch (e.g. articles, timeline volume).
+        timespan (str): The timeframe for the data fetch (e.g., "3m" for 3 months).
     Returns:
-        list: A list of articles matching the query.
+        json: The JSON response from the GDELT API.
     """
+    valid_modes = ["artlist", "timelinevol", 
+                   "timelinevolinfo", "timelinetone", 
+                   "timelinesourcecountry", "tonechart"]
+    if mode not in valid_modes:
+        raise ValueError(f"Invalid mode. Choose from {valid_modes}")
+
+
     url = "https://api.gdeltproject.org/api/v2/doc/doc"
+
     params = {
         "query": query,
-        "mode": "artlist",
+        "mode": mode,
         "timespan": f"{timespan_value}{timespan_unit}",
         "format": "json"
     }
 
     response = requests.get(url, params=params)
-    if response.status_code == 200:
-        return response.json()
-    else:
-        return "No articles found or an error occurred while fetching articles."
+    response.raise_for_status()
+
+    return response.json()
