@@ -12,19 +12,12 @@ def fetch_data(query, mode="artlist", timespan="3m"):
     Returns:
         json: The JSON response from the GDELT API.
     """
-    valid_modes = ["artlist", "timelinevol", 
-                   "timelinevolinfo", "timelinetone", 
-                   "timelinesourcecountry", "tonechart"]
-    if mode not in valid_modes:
-        raise ValueError(f"Invalid mode. Choose from {valid_modes}")
-
-
     url = "https://api.gdeltproject.org/api/v2/doc/doc"
 
     params = {
         "query": query,
         "mode": mode,
-        "timespan": f"{timespan_value}{timespan_unit}",
+        "timespan": timespan,
         "format": "json"
     }
 
