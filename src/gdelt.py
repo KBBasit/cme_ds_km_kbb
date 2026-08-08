@@ -23,14 +23,14 @@ def fetch_data(query, mode="artlist", timespan="3m"):
     }
 
     for attempt in range(3):
-        response = requests.get(url, params=params)
+        try:
+            response = requests.get(url, params=params)
+            response.raise_for_status()
+            return response.json()
 
-        if response.status_code == 429:
-            print(f"Rate limit exceeded. Retrying in 5 seconds... (Attempt {attempt + 1}/3)")
-            time.sleep(5)
-            continue
-
-        response.raise_for_status()
-        return response.json()
+        except requests.exceptions.HTTPError:
+            print(f"Attempt {attempt + 1}")
+            print(f"Status code: {response.status_code}")
+            print(response.text[:500])            
 
     raise Exception("Failed to fetch data from GDELT API after 3 attempts")
