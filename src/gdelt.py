@@ -34,3 +34,14 @@ def fetch_data(query, mode="artlist", timespan="3m"):
             print(response.text[:500])            
 
     raise Exception("Failed to fetch data from GDELT API after 3 attempts")
+
+
+def articles_allowing_scraping(fetched_article_list):
+    '''
+    From the article list requested from GDELT, find which articles can be scraped.
+    Args:
+        fetched_article_list (list): The article list requested from GDELT.
+    Returns:
+        list: A list of the articles from the GDELT request that can be scraped
+    '''
+    return 
