@@ -34,5 +34,14 @@ def find_scrapeable_articles(fetched_article_list):
             continue
 
         # Does the parsed page contain meaningful text
+        paragraphs = soup.find_all("p")
+
+        for i, paragraph in enumerate(paragraphs):
+                paragraphs[i] = paragraph.get_text(" ", strip=True)
+
+        article_text = "\n".join(paragraphs)
+        
+        if len(article_text) > 500:
+            articles_to_scrape.append(url)
 
     return articles_to_scrape
