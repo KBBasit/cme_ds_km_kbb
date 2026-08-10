@@ -14,7 +14,8 @@ def find_scrapeable_articles(fetched_article_list):
     '''
     articles_to_scrape = []
 
-    for url in fetched_article_list:
+    for article in fetched_article_list:
+        url = article["url"]
         # Check if article can be reached
         try:
             response = requests.get(url, timeout=15)
@@ -37,7 +38,7 @@ def find_scrapeable_articles(fetched_article_list):
         paragraphs = soup.find_all("p")
 
         for i, paragraph in enumerate(paragraphs):
-                paragraphs[i] = paragraph.get_text(" ", strip=True)
+            paragraphs[i] = paragraph.get_text(" ", strip=True)
 
         article_text = "\n".join(paragraphs)
         
