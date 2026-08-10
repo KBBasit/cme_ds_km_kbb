@@ -28,10 +28,8 @@ def fetch_data(query, mode="artlist", timespan="3m"):
             response.raise_for_status()
             return response.json()
 
-        except requests.exceptions.HTTPError:
-            print(f"Attempt {attempt + 1}")
-            print(f"Status code: {response.status_code}")
-            print(response.text[:500])            
+        except requests.exceptions.RequestException as e:
+            print(f"Attempt {attempt + 1} failed: {e}")          
 
     raise Exception("Failed to fetch data from GDELT API after 3 attempts")
 
