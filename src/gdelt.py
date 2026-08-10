@@ -1,6 +1,6 @@
 import requests
 import time
-
+from bs4 import BeautifulSoup
 
 
 def fetch_data(query, mode="artlist", timespan="3m"):
@@ -36,7 +36,7 @@ def fetch_data(query, mode="artlist", timespan="3m"):
     raise Exception("Failed to fetch data from GDELT API after 3 attempts")
 
 
-def articles_allowing_scraping(fetched_article_list):
+def find_scrapeable_articles(fetched_article_list):
     '''
     From the article list requested from GDELT, find which articles can be scraped.
     Args:
@@ -44,4 +44,15 @@ def articles_allowing_scraping(fetched_article_list):
     Returns:
         list: A list of the articles from the GDELT request that can be scraped
     '''
-    return 
+    articles_to_scrape = []
+
+    for url in fetched_article_list:
+        try:
+            response = requests.get(url, timeout=15)
+            response.raise_for_status()
+            soup = BeautifulSoup(response.text , "lxml")
+            articles_to_scrape.append(url)
+        except requests.exceptions.RequestException
+            continue
+
+    return articles_to_scrape
