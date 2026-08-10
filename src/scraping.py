@@ -26,9 +26,12 @@ def find_scrapeable_articles(fetched_article_list):
         content_type = response.headers.get("Content-Type", "")
         if "text/html" not in content_type.lower():
             continue
-        soup = BeautifulSoup(response.text, "lxml")
 
         # Can it be parsed
+        try:
+            soup = BeautifulSoup(response.text, "lxml")
+        except Exception:
+            continue
 
         # Does the parsed page contain meaningful text
 
