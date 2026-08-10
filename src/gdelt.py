@@ -1,6 +1,5 @@
 import requests
-import time
-from bs4 import BeautifulSoup
+
 
 
 def fetch_data(query, mode="artlist", timespan="3m"):
@@ -27,7 +26,6 @@ def fetch_data(query, mode="artlist", timespan="3m"):
             response = requests.get(url, params=params)
             response.raise_for_status()
             return response.json()
-
         except requests.exceptions.RequestException as e:
             print(f"Attempt {attempt + 1} failed: {e}")          
 
