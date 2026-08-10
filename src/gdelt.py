@@ -1,4 +1,5 @@
 import requests
+import time
 
 
 
@@ -27,6 +28,7 @@ def fetch_data(query, mode="artlist", timespan="3m"):
             response.raise_for_status()
             return response.json()
         except requests.exceptions.RequestException as e:
-            print(f"Attempt {attempt + 1} failed: {e}")          
+            print(f"Attempt {attempt + 1} failed: {e}")
+            time.sleep(5)         
 
     raise Exception("Failed to fetch data from GDELT API after 3 attempts")
