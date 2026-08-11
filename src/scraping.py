@@ -10,7 +10,7 @@ def find_scrapeable_articles(fetched_article_list):
     Args:
         fetched_article_list (list): The article list requested from GDELT.
     Returns:
-        list: A list of the articles from the GDELT request that can be scraped
+        list: A list of dictionaries containing information about the scrapeable articles
     '''
     articles_to_scrape = []
 
@@ -43,6 +43,6 @@ def find_scrapeable_articles(fetched_article_list):
         article_text = "\n".join(paragraphs)
         
         if len(article_text) > 500:
-            articles_to_scrape.append(url)
+            articles_to_scrape.append(article)
 
     return articles_to_scrape
