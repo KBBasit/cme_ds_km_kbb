@@ -4,18 +4,17 @@ from bs4 import BeautifulSoup
 
 
 
-def find_scrapeable_articles(fetched_article_list):
+def find_scrapeable_articles(url_list):
     '''
-    From the article list requested from GDELT, find which articles can be scraped.
+    From a list of URLs, find which are able to be scraped
     Args:
-        fetched_article_list (list): The article list requested from GDELT.
+        fetched_article_list (list): A list of URLs
     Returns:
-        list: A list of dictionaries containing information about the scrapeable articles
+        list: A filtered list of URLs for websites that can be scraped
     '''
     articles_to_scrape = []
 
-    for article in fetched_article_list:
-        url = article["url"]
+    for url in url_list:
         # Check if article can be reached
         try:
             response = requests.get(url, timeout=15)
@@ -43,6 +42,22 @@ def find_scrapeable_articles(fetched_article_list):
         article_text = "\n".join(paragraphs)
         
         if len(article_text) > 500:
-            articles_to_scrape.append(article)
+            articles_to_scrape.append(url)
 
     return articles_to_scrape
+
+
+def article_scraper(url_list):
+    '''
+    From a list of URLs, scrape bodies of text from each website
+    Args:
+        url_list: A list of URLs to scrape
+    Returns:
+        list: A list with entries of text from the scraped websites
+    '''
+    return
+
+
+
+
+
