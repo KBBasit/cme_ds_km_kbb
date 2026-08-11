@@ -4,15 +4,18 @@ from bs4 import BeautifulSoup
 
 
 
-def find_scrapeable_articles(url_list):
+def scrape_articles(url_list):
     '''
-    From a list of URLs, find which are able to be scraped
+    From a list of URLs, check which websites can be scraped,
+    and scrape bodies of text from each website
     Args:
-        fetched_article_list (list): A list of URLs
+        url_list: A list of URLs to validate and scrape
     Returns:
-        list: A filtered list of URLs for websites that can be scraped
+        list: A list containing dict entries with keys of the
+        successfully scraped URLs, and values of their scraped
+        text
     '''
-    articles_to_scrape = []
+    article_texts = []
 
     for url in url_list:
         # Check if article can be reached
@@ -34,42 +37,12 @@ def find_scrapeable_articles(url_list):
             continue
 
         # Does the parsed page contain meaningful text
-        paragraphs = soup.find_all("p")
-
-        for i, paragraph in enumerate(paragraphs):
-            paragraphs[i] = paragraph.get_text(" ", strip=True)
+        paragraphs = [paragraph.get_text(" ", strip=True)
+                      for paragraph in soup.find_all("p")]
 
         article_text = "\n".join(paragraphs)
         
         if len(article_text) > 500:
-            articles_to_scrape.append(url)
-
-    return articles_to_scrape
-
-
-def scrape_articles(url_list):
-    '''
-    From a list of URLs, check which articles can be scraped,
-    and scrape bodies of text from each website
-    Args:
-        url_list: A list of URLs to scrape
-    Returns:
-        list: A list with entries of text from the scraped websites
-    '''
-    articles_to_scrape = find_scrapeable_articles(url_list)
-    article_texts = []
-
-    for url in articles_to_scrape:
-        response = requests.get(url, timeout = 15)
-        soup = BeautifulSoup(response.text, "lxml")
-
-        paragraphs = soup.find_all("p")
-
-        for i, paragraph in enumerate(paragraphs):
-            paragraphs[i] = paragraph.get_text(" ", strip=True)
-
-        article_text = "\n".join(paragraphs)
-        
-        article_texts.append(article_text)
+            article_texts.append({url : article_text})
 
     return article_texts
