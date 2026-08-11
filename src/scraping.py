@@ -47,17 +47,29 @@ def find_scrapeable_articles(url_list):
     return articles_to_scrape
 
 
-def article_scraper(url_list):
+def scrape_articles(url_list):
     '''
-    From a list of URLs, scrape bodies of text from each website
+    From a list of URLs, check which articles can be scraped,
+    and scrape bodies of text from each website
     Args:
         url_list: A list of URLs to scrape
     Returns:
         list: A list with entries of text from the scraped websites
     '''
-    return
+    articles_to_scrape = find_scrapeable_articles(url_list)
+    article_texts = []
 
+    for url in articles_to_scrape:
+        response = requests.get(url, timeout = 15)
+        soup = BeautifulSoup(response.text, "lxml")
 
+        paragraphs = soup.find_all("p")
 
+        for i, paragraph in enumerate(paragraphs):
+            paragraphs[i] = paragraph.get_text(" ", strip=True)
 
+        article_text = "\n".join(paragraphs)
+        
+        article_texts.append(article_text)
 
+    return article_texts
