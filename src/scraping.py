@@ -6,8 +6,8 @@ from bs4 import BeautifulSoup
 
 def scrape_articles(url_list):
     '''
-    From a list of URLs, check which websites can be scraped,
-    and scrape bodies of text from each website
+    Scrape article text from a list of URLs, skipping pages that cannot be retrieved,
+    parsed or do not contain sufficient text.
     Args:
         url_list (list): A list of URLs to validate and scrape
     Returns:
