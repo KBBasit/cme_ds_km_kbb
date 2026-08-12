@@ -11,9 +11,7 @@ def scrape_articles(url_list):
     Args:
         url_list: A list of URLs to validate and scrape
     Returns:
-        list: A list containing dict entries with keys of the
-        successfully scraped URLs, and values of their scraped
-        text
+        list: A list of dictionaries containing the URL and the scraped text for each valid article
     '''
     article_texts = []
 
@@ -43,6 +41,7 @@ def scrape_articles(url_list):
         article_text = "\n".join(paragraphs)
         
         if len(article_text) > 500:
-            article_texts.append({url : article_text})
+            article_texts.append({'url': url, 
+                                  'text': article_text})
 
     return article_texts
