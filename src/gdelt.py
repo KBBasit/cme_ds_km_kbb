@@ -33,3 +33,32 @@ def fetch_data(query, mode="artlist", timespan="3m"):
                 time.sleep(5)      
 
     raise Exception("Failed to fetch data from GDELT API after 3 attempts")
+
+
+def enrich_scraped_articles(scraped_articles, article_list):
+    """
+    Enriches the scraped articles with additional metadata from the GDELT API response.
+    Args:
+        scraped_articles (list): A list of dictionaries containing the URL and the scraped text for each valid article.
+        article_list (list): A list of articles from the GDELT API response.
+    Returns:
+        list: A list of enriched articles with additional metadata.
+    """
+    enriched_articles = []
+    url_to_metadata = {article["url"]: article for article in article_list}
+
+    for article in scraped_articles:
+        url = article["url"]
+        if url in url_to_metadata:
+            metadata = url_to_metadata[url]
+            enriched_article = {
+                "title": metadata["title"],
+                "url": url,
+                "gdelt_seendate": metadata["seendate"],
+                "language": metadata["language"],
+                "source_country": metadata["sourcecountry"],
+                "text": article["text"],
+            }
+            enriched_articles.append(enriched_article)
+
+    return enriched_articles

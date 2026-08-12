@@ -9,7 +9,7 @@ def scrape_articles(url_list):
     From a list of URLs, check which websites can be scraped,
     and scrape bodies of text from each website
     Args:
-        url_list: A list of URLs to validate and scrape
+        url_list (list): A list of URLs to validate and scrape
     Returns:
         list: A list of dictionaries containing the URL and the scraped text for each valid article
     '''
