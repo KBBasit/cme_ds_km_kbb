@@ -1,5 +1,24 @@
-Title,URL,GDELT seen date,Language,Source country,Text
+Title,URL,GDELT seen date,Language,Source country,Text,Translated text
 Why Quantum Computing Stock Just Popped,https://www.fool.com/investing/2026/07/27/why-quantum-computing-stock-just-popped/?source=iedfolrf0000001,20260727T204500Z,English,United States,"Quantum Computing ( QUBT +1.01% ) stock gained 5.8% through 12:45 p.m. ET Monday -- and it's got a competitor to thank for it.
+This morning, D-Wave Quantum ( QBTS +1.29% ) announced that AT&T ( T +1.26% ) has signed up to use D-Wave's technology ""to address complex optimization challenges across its network operations.""
+Image source: Getty Images.
+Curiously, both D-Wave and Quantum Computing stocks are up nearly identical amounts on the news, despite Quantum Computing itself playing no role in the AT&T contract. Why might that be?
+D-Wave says AT&T will apply its ""annealing quantum computing technology"" (which uses quantum physics to find optimal solutions to complex mathematical problems) to make AT&T's AI agents more efficient when optimizing data traffic and detecting network outages. AT&T is also evaluating other D-Wave technology to further improve its network, and says it has a ""broader innovation strategy"" involving ""quantum computing, AI, automation, advanced analytics, and software-defined infrastructure.""
+From this, it sounds like AT&T isn't tying itself to D-Wave alone, but is trying out a range of technologies, including different approaches to using quantum computing to improve its operations. This may have investors thinking that Quantum Computing, too, might find win work from AT&T -- or from other telecommunications giants .
+Is this a reasonable assumption? Perhaps, but reviewing S&P Global Market Intelligence 's list of the company's customers, it appears Quantum Computing isn't having much success landing major contracts so far -- certainly not as much success as D-Wave has had.
+Maybe that's about to change. Analysts on average forecast more than $41 million in revenue for Quantum Computing this year, a 10x leap from trailing-12-month revenue. If Quantum Computing doesn't deliver on that forecast, however, look out below .
+Rich Smith has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy .
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool . All rights reserved.
+Market data powered by Xignite and Polygon.io .
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
+Quantum Computing investors have high hopes, but can the company deliver in 2026?","Quantum Computing ( QUBT +1.01% ) stock gained 5.8% through 12:45 p.m. ET Monday -- and it's got a competitor to thank for it.
 This morning, D-Wave Quantum ( QBTS +1.29% ) announced that AT&T ( T +1.26% ) has signed up to use D-Wave's technology ""to address complex optimization challenges across its network operations.""
 Image source: Getty Images.
 Curiously, both D-Wave and Quantum Computing stocks are up nearly identical amounts on the news, despite Quantum Computing itself playing no role in the AT&T contract. Why might that be?
@@ -35,7 +54,20 @@ Thank you for liking
 You have already liked this page, you can only like it once!
 
 
-"
+","The European Space Agency has installed its first quantum computer, called Bell-1, at its Earth observation centre in Italy. The move marks a significant step in exploring how quantum technology could be merged with classical high-performance computing to improve the speed and efficiency of processing huge amounts of satellite data.
+Every day, ESA's satellites generate vast volumes of complex data that support Earth science, climate modelling, disaster response and a wide range of societal applications. As quantities of data continue to grow – and are increasingly analysed using machine learning – the limitations of traditional computing are becoming increasingly apparent.
+Quantum computing could unlock entirely new ways to process complex Earth observation data and, in turn, make these data even more powerful for advancing scientific discovery and informed decision-making.
+Quantum computers work in a different way compared to conventional computing.
+Unlike classical computers, which process information as 0s and 1s (bits), quantum computers use quantum bits, or qubits. These, together with quantum mechanical properties such as superposition and entanglement, enable quantum systems to represent multiple states at once, allowing quantum computers to explore many possible solutions simultaneously and solve certain complex problems more efficiently and with higher-quality solutions than classical approaches.
+However, demonstrating the benefits of quantum computing for Earth observation remains a scientific challenge.
+Earth observation applications rely on large, complex and noisy datasets, while current quantum computers are still limited in size, coherence, and error rates. Researchers worldwide are therefore exploring where quantum computing could deliver real value and which problems are best addressed through hybrid classical–quantum approaches.
+Thanks to a recent collaboration between ESA and the quantum technology company Equal1, Bell-1 has been installed at ESA’s establishment in Frascati, Italy.
+Brendan Barry, CTO of Equal1, “Our vision is to provide practical, scalable quantum computing that can be readily adopted by organizations like ESA. The integration of our quantum hardware within ESA's high-performance computing environment will not only accelerate critical Earth observation research but also serve as a blueprint for how quantum and classical systems can collaboratively address grand scientific challenges.”
+ESA’s Director of Earth Observation Programmes, said, “Earth observation is entering an era where the sheer scale and complexity of the data challenge even our most advanced computing systems. By bringing quantum computing into our Earth observation ecosystem, we are exploring technologies that could transform how we extract knowledge from satellite data – accelerating scientific discovery while enabling faster, more informed responses to global challenges.”
+ESA Φ-lab is running a pilot that combines the Agency’s high-performance computing infrastructure with quantum computing capabilities to enable the rapid prototyping of hybrid quantum–classical algorithms for Earth observation applications. This unique environment allows researchers to investigate potential quantum advantages, benchmark emerging algorithms on real-world datasets, and accelerate the transition from theoretical concepts to practical demonstrations.
+Read in depth : ESA’s first quantum computer will shift computing frontiers in space
+Thank you for liking
+You have already liked this page, you can only like it once!"
 Qarakal Quantum Cuts Qubit Requirements by 10X with New Pangaea Quantum Computing Architecture,https://www.manilatimes.net/2026/08/05/tmt-newswire/globenewswire/qarakal-quantum-cuts-qubit-requirements-by-10x-with-new-pangaea-quantum-computing-architecture/2398809,20260805T120000Z,English,Philippines,"Pangaea architecture featuring quantum bus technology reduces the number of physical qubits required for fault-tolerant computing by an order of magnitude
 TEL AVIV, Israel, Aug. 05, 2026 (GLOBE NEWSWIRE) -- Quantum startup Qarakal Quantum today announced its Pangaea architecture for breakthrough modularity and scalability that shortens the path to commercially viable, industry-scale quantum computing. Leveraging its IP-protected quantum bus technology , Qarakal Quantum constructs quantum computers from specialized modules and interconnects, maintaining fault tolerance with 1/10th of the required qubit count of traditional approaches.
 Qarakal Quantum’s Pangaea architecture requires up to an order of magnitude less infrastructure - which means fewer qubits, fewer operations and less noise accumulation, reduced wiring and control complexity, and lower energy consumption - while accelerating application execution for real-world use cases and workloads. Pangaea uses a quantum bus to mediate interactions between qubits and specialized modules, reducing dependence on direct physical adjacency and unnecessary routing operations compared to conventional approaches, while providing far greater architectural freedom to organize, specialize and scale quantum computing resources.
@@ -56,7 +88,22 @@ Michelle Allard McMahon
 
 
 
-"
+","Pangaea architecture featuring quantum bus technology reduces the number of physical qubits required for fault-tolerant computing by an order of magnitude
+TEL AVIV, Israel, Aug. 05, 2026 (GLOBE NEWSWIRE) -- Quantum startup Qarakal Quantum today announced its Pangaea architecture for breakthrough modularity and scalability that shortens the path to commercially viable, industry-scale quantum computing. Leveraging its IP-protected quantum bus technology , Qarakal Quantum constructs quantum computers from specialized modules and interconnects, maintaining fault tolerance with 1/10th of the required qubit count of traditional approaches.
+Qarakal Quantum’s Pangaea architecture requires up to an order of magnitude less infrastructure - which means fewer qubits, fewer operations and less noise accumulation, reduced wiring and control complexity, and lower energy consumption - while accelerating application execution for real-world use cases and workloads. Pangaea uses a quantum bus to mediate interactions between qubits and specialized modules, reducing dependence on direct physical adjacency and unnecessary routing operations compared to conventional approaches, while providing far greater architectural freedom to organize, specialize and scale quantum computing resources.
+""The quantum ecosystem is shifting its focus from simply improving qubit performance and increasing qubit count to engineering more reliable quantum systems,” said Heather West, PhD, Global Quantum Research Lead, IDC. ""As organizations pursue fault tolerance, advances in system architecture and hardware engineering will become increasingly important for reducing errors and enabling scalable quantum computing.""
+
+A Media Snippet accompanying this announcement is available by clicking on this link.
+Qarakal Quantum has pioneered a quantum bus with a dedicated, purpose-built interconnect that mediates quantum information within a modern, modular quantum computer. This is directly analogous in architectural function to the buses and motherboards that connect and coordinate components in classical computers. The quantum bus underpinning Qarakal Quantum’s Pangaea architecture enables a breakthrough in quantum computer architecture flexibility, consistent with the architectural shift that allowed classical computing to evolve from collections of components into integrated, modular computing platforms.
+""The concept of a quantum bus is intriguing,” said Bob Sorensen, Senior VP of Research and Chief Analyst for Quantum Computing at Hyperion Research. ""Scaling quantum computers, not just by adding more qubits, but by building architectures that enable more performant systems, is the next great challenge in quantum computing development. An optimized interconnect approach that supports a modular quantum computing architecture - like that of classical computing - is where a quantum bus design could accelerate the arrival of true fault-tolerant quantum computing.”
+""For years, the industry has treated progress in quantum computing as a race to add more qubits. But adding qubits is not the same as building a computer that can do useful work,” said Dr. Nissan Maskil, CEO and co-founder of Qarakal Quantum. ""Reaching the same fault-tolerant capability with one-tenth the physical qubits changes what is possible right now. The machine becomes simpler to build and control, and far more of it can be put toward the applications themselves. This gives researchers and enterprises the ability to run larger, more meaningful workloads much sooner than architectures constrained by direct qubit adjacency, excessive routing and monolithic scaling. Qarakal Quantum’s architecture-first approach changes the trajectory of quantum computing and sets a new standard for what scalable quantum computing should look like.”
+Additional Resources
+
+Qarakal Quantum is redefining superconducting quantum computing with an architecture-first approach built for quantum computing’s next inflection point as the field shifts from laboratory progress to practical industry-scale use. While much of the industry remains focused on adding more qubits, Qarakal Quantum is focused on what comes next: quantum computers that scale as integrated systems and perform on real-world workloads. Its modular, full-stack platform combines proprietary superconducting qubit design, quantum software and application-level adaptation with an architecture that assigns dedicated physical resources to distinct computational roles - the same principle that enabled classical computing to scale. Qarakal Quantum’s modular three-dimensional Pangaea architecture connects specialized quantum modules through an IP-protected quantum bus and routing motherboard, enabling hardware specialization at system scale. The result is fewer qubits for fewer operations and less noise, faster quantum algorithm execution and a deployable platform built for scientific, industrial and dual-use applications. For more information, follow Qarakal Quantum on LinkedIn or visit www.qarakal.ai .
+Media Contact:
+Rainier Communications
+Michelle Allard McMahon
+[email protected]"
 SEALSQ and Quobly Sign $5 Million Commercial Agreement to Integrate Post - Quantum Security into Next - Generation Silicon Quantum Computing Platforms,https://www.manilatimes.net/2026/07/10/tmt-newswire/globenewswire/sealsq-and-quobly-sign-5-million-commercial-agreement-to-integrate-post-quantum-security-into-next-generation-silicon-quantum-computing-platforms/2382323,20260710T130000Z,English,Philippines,"Geneva, Switzerland & Grenoble, France, July 10, 2026 (GLOBE NEWSWIRE) --
 
 
@@ -125,8 +172,90 @@ Tel: +1 212 836-9611
 
 
 
-"
+","Geneva, Switzerland & Grenoble, France, July 10, 2026 (GLOBE NEWSWIRE) --
+
+
+
+
+
+
+
+Agreement Marks the Commercialization Phase of the Strategic Collaboration Between SEALSQ and Quobly and Advances the Development of Secure, Sovereign and Scalable Quantum Computing Infrastructure
+July 10, 2026 -- SEALSQ Corp (NASDAQ: LAES) (""SEALSQ"" or ""Company""), a company that focuses on developing and selling Semiconductors, PKI, and Post-Quantum technology hardware and software products, and Quobly, a pioneer in silicon based quantum computing, today announced the signing of a $5 million commercial agreement under which Quobly will integrate SEALSQ quantum-security technologies, secure semiconductor solutions and related engineering and integration services.
+The agreement represents a significant milestone in the strategic collaboration announced by the two companies in November 2025 and follows SEALSQ's strategic investment in Quobly. It marks the transition from strategic collaboration to commercial deployment as Quobly accelerates the industrialization and commercialization of its silicon-based quantum computing platform following its recent €115 million Series A financing.
+Under the agreement, SEALSQ will provide Quobly with a portfolio of post-quantum security technologies designed to protect the hardware, control systems, communications infrastructure and trusted execution environments required by next-generation quantum computing platforms.
+The collaboration is expected to include the integration and deployment of SEALSQ’s quantum-resistant technologies, including:
+
+
+
+The objective is to develop quantum computing systems in which cybersecurity is integrated directly into the hardware architecture from the earliest stages of system design.
+As quantum computers evolve from laboratory systems toward industrial-scale infrastructure, securing quantum processors, cryogenic control electronics, classical computing systems, communications networks and cloud interfaces is becoming increasingly important.
+SEALSQ and Quobly intend to address this challenge by developing a security architecture where quantum computing infrastructure can be authenticated, protected and managed through hardware-based identities and post-quantum cryptography.
+Carlos Moreira, Founder and CEO of SEALSQ, commented:
+""The signing of this $5 million commercial agreement represents an important milestone in the execution of SEALSQ’s quantum strategy and demonstrates the growing commercial demand for post-quantum semiconductor technologies.
+Our collaboration with Quobly is moving from strategic technology cooperation toward commercial deployment. By integrating SEALSQ’s post-quantum semiconductors, Root-of-Trust technologies and secure infrastructure into Quobly’s scalable silicon quantum computing platform, we are building the security foundation required for the next generation of quantum computers.
+We believe every quantum computer, quantum data center and quantum communication infrastructure will ultimately require a trusted hardware security layer. SEALSQ intends to become one of the leading global providers of this quantum security infrastructure.
+This agreement also validates our strategy of combining post-quantum semiconductors, secure hardware and quantum computing technologies to create a vertically integrated and sovereign quantum technology ecosystem.”
+Maud Vinet, Co-Founder and CEO of Quobly, commented:
+""Quobly’s mission is to develop scalable quantum processors using semiconductor technologies compatible with the global CMOS manufacturing infrastructure.
+As quantum computing moves from research to industrial deployment and commercialization, security must be designed into the platform from the outset, alongside scalability and manufacturability.
+This agreement strengthens our technology roadmap by integrating advanced post-quantum security capabilities into our silicon quantum computing computer, including Alloy Pioneer, our first generation available by the end of 2026 via the cloud.By combining Quobly’s scalable silicon quantum computing platform with SEALSQ’s expertise in post-quantum semiconductors and secure hardware, we are building a trusted and secure foundation for the deployment of next-generation quantum computing infrastructure.”
+Building the Security Layer for the Quantum Computing Industry
+Quantum computing infrastructure is expected to become increasingly interconnected, combining quantum processors, high-performance computing systems, artificial intelligence platforms, cloud infrastructure and quantum communication networks.
+This emerging infrastructure will require new cybersecurity architectures capable of protecting systems against both conventional cyber threats and future quantum-enabled attacks.
+SEALSQ is developing a portfolio of post-quantum semiconductor technologies designed to provide hardware-based identities, secure authentication, trusted execution environments and quantum-resistant cryptography across connected devices and critical infrastructure.
+Through the commercial agreement with Quobly, these technologies are expected to be adapted and integrated into scalable quantum computing architectures.
+The companies believe the combination of scalable silicon quantum computing and post-quantum hardware security technologies could create significant opportunities across strategic markets including:
+
+The agreement also supports the broader objective of strengthening Europe’s technological sovereignty in quantum computing and post-quantum cybersecurity.
+Quobly is developing quantum processors based on silicon spin qubits manufactured using semiconductor technologies compatible with industrial CMOS processes.
+SEALSQ develops post-quantum secure semiconductors, secure microcontrollers, Root-of-Trust technologies and trusted provisioning infrastructure designed to protect connected systems and critical digital infrastructure.
+By combining these complementary technologies, the companies intend to contribute to the development of a secure European quantum computing ecosystem capable of designing, manufacturing, protecting and operating strategic quantum infrastructure.
+From Strategic Collaboration to Commercial Deployment
+In November 2025, SEALSQ and Quobly announced a strategic collaboration to explore the convergence of scalable quantum computing technologies and post-quantum hardware security.
+The newly signed $5 million commercial agreement represents the next phase of this relationship and establishes a framework for the commercial integration and deployment of SEALSQ technologies within Quobly’s quantum computing development roadmap.
+The agreement demonstrates SEALSQ’s strategy of converting its growing portfolio of quantum technology partnerships and investments into commercial opportunities for its post-quantum semiconductor and Root-of-Trust technologies.
+About Quobly
+Quobly is a quantum computing company developing silicon-based quantum computers using proven semiconductor manufacturing processes. Founded in 2022 in Grenoble, France, the company is focused on making quantum computing scalable, manufacturable and deployable to grow the quantum computing market. The company has strategic partnerships within the semiconductor industry (STMicroelectronics, Air Liquide, Soitec and Orano) to accelerate the industrialization of its silicon quantum chips in advanced semiconductor manufacturing environments. In June 2026, Quobly raised a €115 million Series A led by Bpifrance, STMicroelectronics and SEALSQ, with participation from leading industrial and deeptech investors, to accelerate the industrialization of its quantum processors and bring its first commercial computers to market under its Alloy product line. The company’s first quantum computer will be deployed through cloud environments in 2026 for early adopters in high-performance computing and research. With 100+ collaborators, Quobly is headquartered in Grenoble, France, with subsidiaries in Singapore and Canada.
+About SEALSQ:
+SEALSQ is a leading innovator in Post-Quantum Technology hardware and software solutions. Our technology seamlessly integrates Semiconductors, PKI (Public Key Infrastructure), and Provisioning Services, with a strategic emphasis on developing state-of-the-art Quantum Resistant Cryptography and Semiconductors designed to address the urgent security challenges posed by quantum computing. As quantum computers advance, traditional cryptographic methods like RSA and Elliptic Curve Cryptography (ECC) are increasingly vulnerable.
+SEALSQ is pioneering the development of Post-Quantum Semiconductors that provide robust, future-proof protection for sensitive data across a wide range of applications, including Multi-Factor Authentication tokens, Smart Energy, Medical and Healthcare Systems, Defense, IT Network Infrastructure, Automotive, and Industrial Automation and Control Systems. By embedding Post-Quantum Cryptography into our semiconductor solutions, SEALSQ ensures that organizations stay protected against quantum threats. Our products are engineered to safeguard critical systems, enhancing resilience and security across diverse industries.
+For more information on our Post-Quantum Semiconductors and security solutions, please visit www.sealsq.com .
+Forward-Looking Statements
+This communication expressly or implicitly contains certain forward-looking statements concerning SEALSQ Corp and its businesses. Forward-looking statements include statements regarding our business strategy, financial performance, results of operations, market data, events or developments that we expect or anticipate will occur in the future, as well as any other statements which are not historical facts. Although we believe that the expectations reflected in such forward-looking statements are reasonable, no assurance can be given that such expectations will prove to have been correct. These statements involve known and unknown risks and are based upon a number of assumptions and estimates which are inherently subject to significant uncertainties and contingencies, many of which are beyond our control. Actual results may differ materially from those expressed or implied by such forward-looking statements. Important factors that, in our view, could cause actual results to differ materially from those discussed in the forward-looking statements include SEALSQ's ability to continue beneficial transactions with material parties, including a limited number of significant customers; market demand and semiconductor industry conditions; and the risks discussed in SEALSQ's filings with the SEC. Risks and uncertainties are further described in reports filed by SEALSQ with the SEC.
+SEALSQ Corp is providing this communication as of this date and does not undertake to update any forward-looking statements contained herein as a result of new information, future events or otherwise.
+
+Carlos Moreira
+Chairman & CEO
+Tel: +41 22 594 3000
+[email protected]
+The Equity Group Inc.
+Lena Cati
+Tel: +1 212 836-9611
+[email protected]"
 3 Stocks Smart Quantum Computing Investors Are Buying,https://www.fool.com/investing/2026/07/26/3-stocks-smart-quantum-computing-investors-are-buy/,20260726T071500Z,English,United States,"Quantum computing may not be at the top of every investor's mind right now due to the prominence of artificial intelligence (AI) investing. However, I think it's something investors should keep in mind. By 2030, there could be commercially viable quantum computing available, and that could shake up tech even more than AI has. If quantum computing is all that it has been hyped up to be, then maintaining some exposure to stocks in this field is just as important as AI investing.
+Fortunately, several stocks cross over into both categories, making investing in both trends at the same time easy. Three stocks that I'm bullish on in the quantum field are Alphabet ( GOOG -0.12% ) ( GOOGL -0.13% ) , Nvidia ( NVDA -0.06% ) , and IonQ ( IONQ +2.85% ) . Two of these are also major AI players as well. By maintaining solid exposure to this trio, you'll be able to capture the upside of AI while also hedging your bets on a quantum computing future.
+Image source: Getty Images.
+Alphabet is a major player in computing, and as new computing technologies emerge, it wants to control its own destiny with in-house quantum computing. That will keep it from having to pay exorbitant prices for computing units, as it does now for Nvidia's graphics processing units (GPUs). As a result, Alphabet is plowing a ton of resources into its quantum computing division, and its Willow quantum computing chip has had some incredible breakthroughs.
+Alphabet ran one of its quantum algorithms on its Willow chip and demonstrated a verifiable advantage over traditional computing. This algorithm is similar to the one used to process MRIs and could have significant applications in drug discovery and materials design. Alphabet has also unearthed several other quantum algorithms, such as one that could break cryptocurrency encryptions.
+Alphabet is a major player in the quantum space and has major resources that few can compete against. As a result, it's an odds-on favorite to reach viable quantum computing before anyone else.
+Nvidia may seem like an odd pick here because it's explicitly not developing a quantum processing unit. Instead, it's focusing on its traditional accelerating methods, as it sees incredible demand right now from AI hyperscalers. However, it's not ignoring quantum computing either. What it's doing is launching a range of tools to help the quantum industry succeed on Nvidia hardware. Nvidia sees a future where quantum and traditional accelerated computing work side by side. Ensuring that its peers' quantum computing units plug into existing infrastructure is key.
+So, Nvidia has launched several key products, like its NVQLink, a generative AI model for improving error correction, and updated its CUDA software to include quantum operations. That's a solid strategy and will allow Nvidia to profit from the rise of quantum computing .
+Last is IonQ ( IONQ +2.85% ) , a pure play in the quantum computing space. It has no other business units funding the company. It's only funding sources are the money it can raise from potential clients and any systems it can sell at an early stage. This makes it an incredibly risky investment option, but it also means huge upside if this stock pans out.
+IonQ is currently the world record holder for two-qubit gate fidelity, a common accuracy measure used by quantum computers to assess their products. With IonQ leading the way in the one area where quantum computing is lacking, it's a no-brainer horse to back in the race .
+Still, there's no guarantee that IonQ's solution will pan out, so investors should keep their exposure limited on IonQ's stock, while Nvidia and Alphabet will be just fine if quantum computing doesn't pan out. However, I think a decade from now, investors will look back and see this trio absolutely crushing the market from both quantum computing success and AI proliferation.
+Keithen Drury has positions in Alphabet, IonQ, and Nvidia. The Motley Fool has positions in and recommends Alphabet, IonQ, and Nvidia. The Motley Fool has a disclosure policy .
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool . All rights reserved.
+Market data powered by Xignite and Polygon.io .
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
+Quantum computing is on the horizon.","Quantum computing may not be at the top of every investor's mind right now due to the prominence of artificial intelligence (AI) investing. However, I think it's something investors should keep in mind. By 2030, there could be commercially viable quantum computing available, and that could shake up tech even more than AI has. If quantum computing is all that it has been hyped up to be, then maintaining some exposure to stocks in this field is just as important as AI investing.
 Fortunately, several stocks cross over into both categories, making investing in both trends at the same time easy. Three stocks that I'm bullish on in the quantum field are Alphabet ( GOOG -0.12% ) ( GOOGL -0.13% ) , Nvidia ( NVDA -0.06% ) , and IonQ ( IONQ +2.85% ) . Two of these are also major AI players as well. By maintaining solid exposure to this trio, you'll be able to capture the upside of AI while also hedging your bets on a quantum computing future.
 Image source: Getty Images.
 Alphabet is a major player in computing, and as new computing technologies emerge, it wants to control its own destiny with in-house quantum computing. That will keep it from having to pay exorbitant prices for computing units, as it does now for Nvidia's graphics processing units (GPUs). As a result, Alphabet is plowing a ton of resources into its quantum computing division, and its Willow quantum computing chip has had some incredible breakthroughs.
@@ -150,6 +279,65 @@ Free Tools
 Affiliates & Friends
 Quantum computing is on the horizon."
 9 Best Quantum Computing Stocks for 2026 and How to Invest,https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/quantum-computing-stocks/,20260715T230000Z,English,United States,"Quantum computing, coupled with AI, may help Google to improve the efficiency of large computing systems. This technology is central to the company's efforts to innovate.
+JPMorgan Chase is an advertising partner of Motley Fool Money. Anders Bylund has positions in Alphabet, Amazon, Intel, International Business Machines, and Nvidia. The Motley Fool has positions in and recommends Alphabet, Amazon, Amgen, Honeywell Technologies, Intel, International Business Machines, IonQ, JPMorgan Chase, Microsoft, Nvidia, RTX, and Taiwan Semiconductor Manufacturing. The Motley Fool has a disclosure policy .
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool . All rights reserved.
+Market data powered by Xignite and Polygon.io .
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
+Quantum computing could become one of the most disruptive technologies of the next decade, with potential applications in artificial intelligence (AI), cybersecurity, and drug discovery. Unlike traditional computers, quantum systems use the laws of quantum mechanics to solve certain problems far faster than today's machines can.
+For investors, the long-term promise of quantum computing comes with significant uncertainty. Most quantum computers remain in the research and development (R&D) phase as of 2026, and truly commercial systems are likely years away. Still, steady technical progress, increased cloud access, and growing interest from large technology companies have brought quantum computing stocks into sharper focus.
+Quantum computing stocks come in three flavors, and knowing which one is in the glass matters more than any ranking.
+First, the pure plays. IonQ, Rigetti Computing, and D-Wave Quantum have bet everything on qubits. They post minimal revenue, substantial losses, and share prices that respond to research papers more reliably than to earnings reports. Here, more than $30 billion in combined market value is based on revenue you could count in tens of millions.
+Second, the hybrid. Quantinuum ( QNT -7.17% ) was a Honeywell subsidiary for years before its 2026 IPO, and Honeywell International ( HON +0.29% ) still holds a controlling stake. It has the focus of a start-up, but the balance sheet of an industrial conglomerate.
+Third, the giants. Microsoft, Alphabet, Nvidia, Intel, and IBM run serious quantum labs, and not one of them will notice if the whole field takes another decade. Quantum computing is a side project for these five, funded by businesses that already work.
+IonQ ( IONQ +2.85% ) went public via a merger with special purpose acquisition company (SPAC) dMY Technology Group III in 2021. IonQ is a start-up-stage quantum computing company and the first quantum computing pure play to become publicly traded.
+IonQ develops quantum computing hardware and is the first to have its systems available across all major public cloud services. It plans to build a network of quantum computers accessible via the cloud and targets rapid near-term growth as researchers begin using its hardware on a larger scale.
+The company partners with Microsoft ( MSFT -0.30% ), Amazon ( AMZN -0.94% ) Web Services (AWS), and Alphabet 's ( GOOG -0.12% ) ( GOOGL -0.13% ) Google Cloud. Japanese telecommunications company and tech investor SoftBank Group ( SFTBF +1.38% ) has also invested in IonQ.
+SoftBank is partnering with IonQ to bring quantum computing power to the many other tech companies in its portfolio. While its older Aria system has been available via AWS since 2023, the company is now rolling out its next-generation 100-qubit system, Tempo, designed to achieve commercial advantage for enterprise workloads.
+IonQ has generated minimal revenue so far and is not yet profitable. It will need to continue spending heavily to develop its products and business for at least a few more years. However, it reported a $470 million backlog of orders in the first quarter of 2026. That's a substantial start, up 550% from the year-ago period.
+Investing in this start-up is still a speculative play, despite its improving financial prospects. If IonQ's research efforts are successful, the stock could be a profitable way to invest in quantum computing, but investors should act with prudence. This is still a start-up business, and its valuation is often sky-high.
+Rigetti ( RGTI +1.07% ) wants to be a one-stop shop for your quantum computing needs. It designs and manufactures its own superconducting quantum chips, integrates them with digital control systems, and offers a platform that blends quantum processors with classical computing to run practical, hybrid workloads.
+This approach still needs extreme cooling, and it's a messy system that works only under sophisticated error-correction setups. But the annealing systems can also grow incredibly powerful under the right circumstances. In particular, annealing circuits can provide a better starting point for quantum gate calculations.
+So, D-Wave's quantum computers could become a standard addition to more ambitious quantum gate systems. That's a unique strategy. D-Wave's stock is richly valued despite lackluster revenues and negative profit margins. Be careful with these financially unstable specialists.
+Honeywell International produces everything from automated building management systems to industrial field controllers. Its diverse work also includes quantum computing. The company spun out its quantum computing operations as a separate company in June 2026. Now you can invest in Quantinuum as a stand-alone stock.
+Honeywell's quantum computing division has a longer history than the recent spinoff suggests. The unit merged with Cambridge Quantum Computing in 2021 to form Quantinuum, which operated as a Honeywell subsidiary until the 2026 IPO. The company builds trapped-ion quantum computers and the software stack that runs on them.
+Honeywell remains the controlling shareholder and continues to supply hardware and infrastructure to the company. The financials tell an early-stage business story, though. Quantinuum generated $30.9 million in revenue for 2025 against a $192.6 million net loss. The company had $677 million in cash as of March 31, 2026.
+Intel ( INTC -1.97% ) lost its lead in the semiconductor industry. Third-party foundry Taiwan Semiconductor Manufacturing ( TSM -0.96% ) surpassed Intel a few years ago, and numerous companies (including Nvidia) are valued far higher owing to their greater exposure to growth markets such as AI GPUs .
+But Intel is mounting a comeback. One of its initiatives includes Tunnel Falls, a quantum computing chip. The silicon-based chip uses Intel's most advanced manufacturing processes and is now available to the research community. Intel says it has partnered with numerous government and university research departments to test Tunnel Falls.
+Quantum computing is not central to Intel's plans to regain its dominance in the semiconductor industry. Still, if research yields positive results, it could become an important segment for the integrated chip design and manufacturing giant.
+Nvidia ( NVDA -0.06% ) has emerged as the global leader in advanced semiconductor designs , powering next-gen tech with its graphics processing units (GPUs) that accelerate computing power. Nvidia is helping develop quantum computers using its GPUs, retaining its leadership in sophisticated circuit design. The company is also a leader in AI machine learning .
+Nvidia is leveraging its GPU software to support the development of quantum computing. It has released cuQuantum, a software development kit designed to help software developers build workflows on quantum computing. The idea is to control next-generation quantum systems with a digital toolkit, thereby simplifying the transition from one computing era to the next.
+On the hardware side, Nvidia announced DGX Quantum in early 2023. The system pairs Nvidia's most advanced GPUs with quantum hardware developed by start-up Quantum Machines. It is made for researchers advancing quantum computing technology. Nvidia's quantum work has wide-ranging uses, from breakthroughs in jet engine efficiency to rapid drug and healthcare development.
+IBM ( IBM -1.19% ) has its own quantum computing chips and systems available for commercial use through its IBM Quantum business unit. More than 210 research organizations and companies, ranging from financial services businesses to automakers to energy producers, use IBM's quantum computing services.
+In 2021, the company struck a deal with government contractor RTX (formerly Raytheon Technologies) ( RTX +1.47% ) to develop AI and quantum computing for the aerospace, defense, and intelligence industries. The U.S. government will be a top customer of the research collaboration. IBM combines an innovative product portfolio with modest stock gains compared to other quantum computing and AI experts.
+The software titan researches and develops a wide range of technologies, and quantum computing is no exception. Quantum computers require specialized refrigeration, superconducting chips, and highly specialized software, all of which Microsoft is developing in its labs. Microsoft also offers researchers access to quantum computing services via its massive cloud platform, Azure.
+
+Quantum computing tech probably won't be a significant driver of Microsoft's financial performance anytime soon. However, the company is helping to develop the next generation of computing technology. Microsoft stock has been a winning investment for decades, and its importance in software technology will persist for a very long time.
+Alphabet subsidiary Google , the third-largest public cloud computing platform, has developed its own quantum computing chips, branded Sycamore. The tech behemoth is using quantum computing to advance its AI software systems. In March 2022, it spun off its quantum computing software unit into an independent start-up called SandboxAQ.
+At this point, there is no established leader in quantum computing. Dozens of companies, including several tech giants, are researching its potential and experimenting with real-world uses. Developing quantum hardware that accurately performs computations and meets reasonable return-on-investment thresholds is still ongoing.
+So, there are no clear long-term winners to invest in at this point, apart from the established tech giants who can treat quantum computing as a promising side gig. Smaller quantum computing experts such as D-Wave, Rigetti, and IonQ might deliver great long-term returns -- but they also face significant risks without a financial safety net.
+All things considered, quantum computing is best approached with care. Established winners and exchange-traded funds (ETFs) can limit your risks, and direct bets on the smaller experts in this field should be fairly small. Those are high-risk, high-reward long-term bets.
+Batteries are essential for the energy transition. Quantum glass battery companies may make a rocky road much smoother.
+Quantum computing is becoming increasingly affordable and effective to the point that there are now a few quantum computing ETFs.
+These acronyms symbolize five prominent tech companies essential to the S&P 500.
+This vast sector is composed of some of the most valuable companies in the world.
+Three filters produced this list of nine quantum computing stocks.
+The first is direct involvement. Each company either builds quantum processors, operates systems that outside researchers can access, or develops the software layer that makes those systems usable. A research budget line item and an enthusiastic press release were not enough to qualify.
+The second is public availability. Every name here trades on a major U.S. exchange, which rules out privately held specialists such as PsiQuantum and Atom Computing, along with the quantum divisions housed inside foreign conglomerates.
+The third is disclosure. Audited financials, named customers, and published technical roadmaps make a company possible to evaluate; several quantum hopefuls offer none of the three.
+Those filters excluded some familiar tickers. Arqit Quantum ( ARQQ +2.57% ) sells post-quantum encryption, which defends against quantum computers rather than building them. Quantum Computing ( QUBT +1.01% ) builds photonic hardware but discloses little revenue. The Defiance Quantum ETF ( QTUM +0.28% ) is a multi-stock fund, not a company.
+The nine stocks listed earlier are grouped by business model, not ranked. Nobody has enough operating history in this field to support confident ordering, and any list claiming otherwise is guessing with extra steps.
+Like its quantum-specialist peers, Rigetti runs its business on stock-sale proceeds rather than revenue streams.
+The terminal risk for smaller pure-plays has always been cash burn. However, the regulatory landscape shifted dramatically in May 2026 when the U.S. Department of Commerce announced a $2 billion funding injection under the CHIPS and Science Act to secure domestic quantum infrastructure.
+Rigetti walked away with a letter of intent for up to $100 million in federal incentives. That's a significant safety cushion that should give Rigetti more time to deliver business results.
+You should still be careful with Rigetti's shares, though. With promising research projects but minimal business operations, the stock often looks overheated.
+Instead of separate ions, D-Wave 's ( NYSE:QBTS ) systems rely on superconducting loops with strong magnetic fields. These annealing circuits work together in groups, drawing on the interactions among their energy states to find patterns.","Quantum computing, coupled with AI, may help Google to improve the efficiency of large computing systems. This technology is central to the company's efforts to innovate.
 JPMorgan Chase is an advertising partner of Motley Fool Money. Anders Bylund has positions in Alphabet, Amazon, Intel, International Business Machines, and Nvidia. The Motley Fool has positions in and recommends Alphabet, Amazon, Amgen, Honeywell Technologies, Intel, International Business Machines, IonQ, JPMorgan Chase, Microsoft, Nvidia, RTX, and Taiwan Semiconductor Manufacturing. The Motley Fool has a disclosure policy .
 *Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
 Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
@@ -235,8 +423,59 @@ Cloud Computing/Internet of Things
 Computer Software
 Computer Software
 Computer & Electronics
+Do not sell or share my personal information :","Searching for your content...
+In-Language News
+Contact Us
+888-776-0942 from 8 AM - 10 PM ET
+May 21, 2026, 10:34 ET
+Share this article
+BOULDER, Colo. , May 21, 2026 /PRNewswire/ -- Atom Computing, a leader in scalable, neutral-atom quantum computing, today announced it has signed a Letter of Intent (LOI) with the U.S. Department of Commerce to receive $100 million of funding to accelerate development of fault-tolerant, utility-scale quantum computing. This announcement marks a significant step in the government's support of American efforts to advance critical quantum technologies and strengthen the United States' leadership in next-generation computing.
+As global competition for quantum leadership intensifies, the LOI from the Department of Commerce demonstrates that the U.S. Government is committed to the long-term success of foundational quantum technologies.
+Atom Computing's unique approach to quantum computing, utilizing arrays of optically-trapped neutral atoms, is widely recognized as one of the most viable paths to reaching commercial utility. The company has emerged as an industry leader by pioneering the use of this technology for quantum systems and is currently installing the world's first commercial quantum computer with logical qubits . Atom also performed on Stage A of DARPA's Quantum Benchmarking Initiative (QBI) and is currently performing on Stage B, where it is demonstrating its path to utility-scale quantum computing.
+""This investment will allow us to move faster than ever and strengthens the United States' leadership in quantum computing,"" said Ben Bloom, Founder and CEO of Atom Computing. ""With this support, we will be accelerating key engineering advances needed to deliver full-scale quantum systems powered by our neutral-atom technology.""
+With the Commerce Department's support, Atom Computing will accelerate its technology roadmap through targeted engineering initiatives, including:
+""With today's CHIPS Research and Development investments in quantum computing, the Trump administration is leading the world into a new era of American innovation,"" said Secretary of Commerce Howard Lutnick. ""These strategic quantum technology investments will build on our domestic industry, creating thousands of high-paying American jobs while advancing American quantum capabilities.""
+The federal government's intended support stands alongside continued backing from Atom Computing's early-stage and institutional investors, who have long supported the company's focus on scalability and engineering rigor.
+""DCVC has been invested in Atom Computing from the start, and we are excited to see this bold and timely bet that accelerates the company's roadmap to a neutral atom based, fault tolerant quantum computer,"" said Dr. Prineha Narang, a DCVC Operating Partner.
+Robert Schwartz, Managing Partner at Third Point Ventures, added, ""This milestone is a powerful validation of Atom's commercial maturity and technical leadership. We are thrilled to see the U.S. government recognize what we've known since our initial investment: Atom Computing is perfectly positioned to lead the development of scaled, performant, practical quantum computers and this technology will ultimately be as important as artificial intelligence.""
+The timelines for achieving economically valuable quantum computing are continuing to shrink as breakthroughs accelerate across the industry. Atom Computing is well-positioned to capitalize on this momentum and continue leading the development and commercialization of quantum technologies.
+About Atom Computing
+Atom Computing is developing large-scale quantum computers to enable companies and researchers to achieve unprecedented computational breakthroughs. Utilizing highly scalable arrays of optically trapped neutral atoms, the company has developed systems with over 1,000 qubits, featuring advanced capabilities towards fault-tolerant quantum computing. Atom Computing's on-premises systems provide customers with new computational tools and logical qubit capabilities to address increasingly complex applications and to grow their quantum ecosystem. Learn more at atom-computing.com and follow us on LinkedIn .
+Contact: [email protected]
+SOURCE Atom Computing
+Atom Computing and Nu Quantum today announced a strategic collaboration to build the hardware essential to scaling neutral atom quantum computers to...
+Atom Computing today announced it has raised a total funding of more than $300 million to accelerate the development and deployment of...
+Cloud Computing/Internet of Things
+Computer Software
+Computer Software
+Computer & Electronics
 Do not sell or share my personal information :"
 Oracle Cloud Infrastructure gets hybrid quantum capabilities,https://www.computerweekly.com/news/366649217/Oracle-Cloud-Infrastructure-gets-hybrid-quantum-capabilities,20260813T090000Z,English,United Kingdom,"sakkmesterke - stock.adobe.com
+Quantum computing company Quantinuum has signed a multi-year strategic partnership with Oracle to bring quantum computing to Oracle Cloud Infrastructure (OCI). Under the partnership, OCI customers will have direct access to Quantinuum’s Helios commercial quantum computer .
+Helios, which is a hybrid design that works with AI and classical computing infrastructure, was launched commercially in November 2025. It is Quantinuum’s third-generation quantum computer. This is a 98-physical-qubit trapped-ion system, which, according to Quantinuum, has been used in demonstrations involving 48 logical qubits, achieving an average two-qubit gate fidelity of 99.921%.
+The two companies plan to explore how hybrid quantum-artificial intelligence (AI) infrastructure can be applied to tackle computationally intensive challenges facing businesses along with broadening access to quantum technology for universities and research institutions to support scientific discovery and education.
+Oracle and Quantinuum sees the future of enterprise computing as a convergence of AI, classical supercomputing and quantum computing. They believe that complex problems across materials discovery, drug development, logistics, energy and financial modeling could be tackled using quantum technology.
+“We believe the next phase of enterprise computing will be shaped by bringing quantum, AI and high-performance computing together,” said Rajeeb Hazra, president and CEO of Quantinuum. “Deploying Helios inside OCI gives Quantinuum and Oracle an opportunity to create a unique, deeply integrated environment for hybrid workloads, explore enterprise use cases with customers, and accelerate commercial adoption.”
+Discussing enterprise adoption, Heather West, global quantum research lead at IDC, said: “Deploying quantum systems within private cloud environments enables organisations to integrate quantum computing into existing AI and HPC workflows through familiar cloud infrastructure and development tools, reducing barriers to adoption and making hybrid quantum-classical computing a practical part of enterprise IT.”
+Along with the ability to solve problems that would not be possible on supercomputers based on a classical computing architecture, according to Quantinuum, a single Helios system has an estimated power draw of less than 1% of the draw reported for leading supercomputers.
+Commenting on the partnership, Mahesh Thiagarajan, executive vice-president of Oracle Cloud Infrastructure, said: “AI has changed what organisations can imagine, and we believe quantum computing can expand what they’re able to solve. By bringing Quantinuum’s Helios to Oracle Cloud Infrastructure, we want to give developers a practical and secure way to explore how quantum computing could complement their existing AI and HPC workloads on Oracle Cloud Infrastructure while improving compute efficiency and energy use.”
+Quantinuum and Oracle said the hybrid architecture means OCI customers can expect to gain managed, secure access to cloud-hosted quantum computing without having to procure, install or operate dedicated hardware or specialised facilities. By operating on-premise in OCI’s infrastructure, Quantinuum and Oracle anticipate it will be able to integrate seamlessly with existing OCI compute, networking, storage, identity and data services under the same governance and access controls customers already use.
+Oracle plans to preview its OCI quantum service in the coming months, giving developers a streamlined way to move from simulation to execution on real quantum computing hardware. The planned OCI quantum service is expected to combine Quantinuum’s development stack with support for open source hybrid programming frameworks, helping developers build, test and refine quantum-classical applications more efficiently.
+Composable infrastructure provides CIOs flexibility in combining compute, storage and networking into one framework. Learn the ...
+CIOs are looking for ways to say yes to the iPad in the enterprise, despite the technological and cultural challenges associated ...
+Security experts say the lesson isn't to abandon sandboxing, but to strengthen the security controls around surrounding systems ...
+The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their ...
+New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for ...
+Next-generation 5G wireless technology will offer faster speeds and increased capacity. Do you speak the language well enough to ...
+In this recap of industry blogs, networking pundits examine the profit potential of 5G expansion, responsible use of AI and some ...
+Could the cloud, 5G, small cell technology, BYOD and carrier-provisioned networks completely virtualize network infrastructure? ...
+The hyperscale era is ending. AI's energy and latency demands are driving infrastructure toward the edge -- closer to users, ...
+Despite the deployment and cost advantages of hyper-converged infrastructures, learn how disaggregated HCI can overcome compute, ...
+When transforming operations to a hybrid IT environment, there's one other option to consider beyond the premises, public cloud ...
+This guide covers the challenges data management teams face on data protection and privacy, particularly with the rise of GDPR ...
+
+Aging legacy ERP systems at SMBs seem to be getting plenty of scrutiny these days. Heightened consumer demands, shifting ...
+©2026 TechTarget , Inc. d/b/a Informa TechTarget. All Rights Reserved. Privacy Policy Cookie Preferences Cookie Preferences Do Not Sell or Share My Personal Information","sakkmesterke - stock.adobe.com
 Quantum computing company Quantinuum has signed a multi-year strategic partnership with Oracle to bring quantum computing to Oracle Cloud Infrastructure (OCI). Under the partnership, OCI customers will have direct access to Quantinuum’s Helios commercial quantum computer .
 Helios, which is a hybrid design that works with AI and classical computing infrastructure, was launched commercially in November 2025. It is Quantinuum’s third-generation quantum computer. This is a 98-physical-qubit trapped-ion system, which, according to Quantinuum, has been used in demonstrations involving 48 logical qubits, achieving an average two-qubit gate fidelity of 99.921%.
 The two companies plan to explore how hybrid quantum-artificial intelligence (AI) infrastructure can be applied to tackle computationally intensive challenges facing businesses along with broadening access to quantum technology for universities and research institutions to support scientific discovery and education.
@@ -265,8 +504,32 @@ Aging legacy ERP systems at SMBs seem to be getting plenty of scrutiny these day
 Chinese photonic quantum computing firm TuringQ kicks off IPO push as hard - tech companies flock to public markets,https://www.globaltimes.cn/page/202608/1367655.shtml,20260807T020000Z,English,China,"A spectator explores TuringQ Gen2 large-scale hybrid integrated photonic quantum computer at HIECO 2026 Intelligent Computing Application Conference, during which multiple AI hardware and software companies showcased products and solutions in intelligent computing, AI infrastructure and applications in Zhengzhou, Central China's Henan Province, on July 9, 2026. Photo: China News Service
 A Chinese company will debut its groundbreaking Quester1 shape-shifting personal robot - ""transformer""-like - at the 2026 World ...
 CXMT, a leading Chinese storage chipmaker, made public its IPO prospectus on Thursday as it moves toward a ...
+Chinese biotechnology company WuXi AppTec said on Friday it had sued the US Department of Defense in a ...","A spectator explores TuringQ Gen2 large-scale hybrid integrated photonic quantum computer at HIECO 2026 Intelligent Computing Application Conference, during which multiple AI hardware and software companies showcased products and solutions in intelligent computing, AI infrastructure and applications in Zhengzhou, Central China's Henan Province, on July 9, 2026. Photo: China News Service
+A Chinese company will debut its groundbreaking Quester1 shape-shifting personal robot - ""transformer""-like - at the 2026 World ...
+CXMT, a leading Chinese storage chipmaker, made public its IPO prospectus on Thursday as it moves toward a ...
 Chinese biotechnology company WuXi AppTec said on Friday it had sued the US Department of Defense in a ..."
 3 Stocks to Take Advantage of the $72 Billion Quantum Computing Industry,https://www.fool.com/investing/2026/05/20/3-stocks-to-take-advantage-of-the-72-billion-quant/?source=iedfolrf0000001,20260520T091500Z,English,United States,"Quantum computing hasn't hit the mainstream yet, but it's coming. Several companies are excited about the prospects of quantum computing and how it can transform how we do business.
+McKinsey & Company estimates that the quantum computing market could be worth up to $72 billion annually by 2035. That's a major market opportunity to capture. There are several competitors in this space, but I think three stocks are primed to do well. If you're looking to get started investing in quantum computing, I think these three make for an excellent core to build a section of your portfolio around.
+Image source: Getty Images.
+The biggest problem with quantum computing right now is inaccuracy. Quantum computers use particles to perform computations, and measuring what's happening at the atomic level is difficult in the presence of significant background noise. So inaccuracies can easily enter a calculation. Every company in the quantum computing space is trying to solve this problem, but nobody has technology as accurate as IonQ ( IONQ +2.85% ) . While most companies struggle to reach 99.9% accuracy, IonQ has already achieved 99.99%.
+As computing systems get larger, errors can compound. As a result, many available quantum computing devices are relatively small and cannot handle large workloads. However, IonQ is building a 256-qubit quantum computer using the same technology that enabled 99.99% accuracy. If this computer is successful, it puts IonQ on the fast track to becoming one of the top quantum computing investments .
+Alphabet ( GOOG -0.12% ) ( GOOGL -0.13% ) is one of the legacy tech companies competing in quantum computing, and it has announced several breakthroughs. Alphabet is self-funding its quantum research, unlike others that must raise capital from the public markets. If it can develop a viable quantum computer, it already has the infrastructure set up to monetize it via Google Cloud.
+This makes Alphabet a safe bet, as even if its quantum chip fails to gain traction, it could still fill its data center with computers from IonQ and make money renting out its capabilities to clients via the cloud. That makes Alphabet a no-brainer investment in this space.
+Last is Nvidia ( NVDA -0.06% ) , which is solely focused on traditional computing units. However, it recognizes that quantum computing will affect the future, so it's doing several things to ensure that its computing units are used in the process. Nvidia believes that future computing will be a hybrid of traditional and quantum methods. This hybrid approach will require existing computing infrastructure, which is dominated by Nvidia graphics processing units (GPUs).
+In order to stay on top, Nvidia has tweaked its leading CUDA software to include quantum functions and renamed it CUDA-Q. It has also developed a generative artificial intelligence (AI) model to help with error correction, further advancing many companies' accuracy scores. It has also created NVQLink, which allows quantum computers to plug into existing computing networks.
+All of this showcases that Nvidia is looking to bridge the gap between traditional and quantum computing methods. This is a great place to be, and Nvidia will still be a great investment even after the AI build-out is over and quantum computing hits the mainstream.
+Keithen Drury has positions in Alphabet, IonQ, and Nvidia. The Motley Fool has positions in and recommends Alphabet, IonQ, and Nvidia. The Motley Fool has a disclosure policy .
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool . All rights reserved.
+Market data powered by Xignite and Polygon.io .
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
+Quantum computing will hit the mainstream faster than most think.","Quantum computing hasn't hit the mainstream yet, but it's coming. Several companies are excited about the prospects of quantum computing and how it can transform how we do business.
 McKinsey & Company estimates that the quantum computing market could be worth up to $72 billion annually by 2035. That's a major market opportunity to capture. There are several competitors in this space, but I think three stocks are primed to do well. If you're looking to get started investing in quantum computing, I think these three make for an excellent core to build a section of your portfolio around.
 Image source: Getty Images.
 The biggest problem with quantum computing right now is inaccuracy. Quantum computers use particles to perform computations, and measuring what's happening at the atomic level is difficult in the presence of significant background noise. So inaccuracies can easily enter a calculation. Every company in the quantum computing space is trying to solve this problem, but nobody has technology as accurate as IonQ ( IONQ +2.85% ) . While most companies struggle to reach 99.9% accuracy, IonQ has already achieved 99.99%.
@@ -372,8 +635,111 @@ Thanks for signing up!
 Get the free daily newsletter read by industry experts
 As states target utilities’ return on equity, Pepco’s rate case in Maryland, where the consumer advocate is arguing for an ROE cut, is being closely watched.
 We have updated this list to add electric power industry events covering transmission and distribution, affordability, customer service, microgrids and more.
+The free newsletter covering the top industry headlines","Let Utility Dive's free newsletter keep you informed, straight from your inbox.
+
+In partnership with
+In partnership with
+“The load profile is different from anything utilities have planned for before,” said Aparna Prabhakar, chief strategy and sustainability officer, energy management, for Schneider Electric.
+Today’s utility work on quantum computing has one key goal: to not be left scrambling to address quantum’s impact on overall electricity demand and its curious load profile, like the electric power sector has been with artificial intelligence.
+Quantum computing harnesses the principles of quantum mechanics to process information in ways classical computers cannot, said Jeremy Renshaw, the director of open power AI and quantum with the Electric Power Research Institute. It adds new computing capabilities that complement classical computing, he added.
+Those capabilities could reduce AI data centers’ electricity use, improve cybersecurity and optimize power system dispatch.
+“In the near future, for the subset of problems where quantum computing holds an advantage, such as large-scale optimization and materials science, it offers polynomial or even exponential speedup,” Renshaw said. “Longer term, quantum computing will be the go-to resource for solving large scale problems.”
+Quantum computing is now reaching a “commercial tipping point,” according to an April McKinsey market report . Worldwide, over 300 companies have started trying out the complex technology that grew out of quantum physics, and investment in startups reached $12.6 billion in 2025 — six times the 2024 investment.
+While experts agree quantum computing has potential to unlock advances in energy, they say its load profile is still uncertain, presenting a particular challenge to electric utilities.
+“This is a toe-in-the-water moment that can show the opportunities and risks of quantum and its potential impacts on affordability and reliability in a gated way.”
+Brad Gibson
+COO, Middle Tennessee Electric
+Duke Energy is among the utilities working to understand quantum computing’s energy use and potential.
+“Utilities routinely balance thousands of interconnected variables involving generation, transmission, demand, weather, regulatory constraints and customer impacts,” Isuru Wijesundara, lead enterprise architect for energy strategy and advanced computing at Duke, told Utility Dive in an email.
+Optimizing such highly complex calculations would create important value for utilities, he said.
+The first question anybody in the power sector will ask is whether quantum computing will add another demand surge to the already stressed U.S. power system.
+“The load profile is different from anything utilities have planned for before,” said Aparna Prabhakar, chief strategy and sustainability officer, energy management, for power sector hardware and software provider Schneider Electric . It requires 24/7 cryogenic cooling to near absolute zero with added layers of incremental workflow loads, she added.
+Planners must “build smarter infrastructure” because more substations will not address this new load profile, Prabhakar said. Software-defined power systems can let utilities see, orchestrate and de-risk the new load and the new load profile in real time, she said.
+Although the technology is still emerging, Prabhakar thinks quantum data centers will have reliability and power quality requirements “at least as demanding as conventional data center loads.”
+Not everyone agrees.
+“Quantum computing’s processor power use is comparatively small for those large-scale computations,” said Renshaw. Even though many quantum computing modalities require about 15 kW per hour from cooling systems to get and keep certain components at near absolute zero, “the energy to cool even millions of ions or atoms is extremely small compared to the energy used for AI training in GW-scale datacenters,” he said.
+While Prabhakar and Renshaw differed on how they see quantum computing’s load profile developing, they agreed that due to its potential impact on the grid, utilities should be in the earliest conversations about standards.
+Quantum computing is still an emerging technology, but not one business leaders can afford to ignore, McKinsey said. Companies that build capabilities and test use cases are the ones likely to have part of the up to $2.7 trillion in economic value that quantum is estimated to have in the 2030s, it added.
+McKinsey identified over 300 organizations from medical technologies and pharmaceuticals to financial services, energy, and material sciences, including Airbus, E.ON, and JPMorgan Chase, collaborating with quantum technology companies. Quantum computing companies generated “more than $1 billion in revenue worldwide in 2025 — and that could grow to as much as $4.4 billion by 2028,” it said.
+Pilots at EPB , Chattanooga’s municipal utility, and electric cooperative Middle Tennessee Electric , have already begun to study power system optimizations using quantum computing.
+With partners like private sector quantum computing leader IonQ , the Oak Ridge National Laboratory and the University of Tennessee, EPB has had a quantum communications network since 2023, said Patrick Swingle, EPB’s manager of quantum systems and strategic initiatives. It will install a quantum computer with 36 logical qubits later this year, he added.
+EPB will use the quantum computing to plan locations and dispatch for the 150 batteries on feeders across its 200,000 meters and 112 substations, Swingle said. It will also optimize planning for the charging and discharging of the batteries for supply-demand and peak load forecasts, and prepare the utility for future real time dispatch as loads and weather change, he added.
+EPB will initially use a hybrid of quantum and classical compute built on NVIDIA’s CUDA-Q platform that allows work across QPUs, GPUs and CPUs, Swingle said.
+MTE is working with similar partners and Middle Tennessee State University’s QRISE Center , said Brad Gibson, the utility’s chief operating officer. The initial interest was cybersecurity, but, like EPB, it is now exploring quantum’s potential applications for the 82 or more batteries it will soon have across its 365,000 meters, 2,200 square mile service footprint, he added.
+“This is a toe-in-the-water moment that can show the opportunities and risks of quantum and its potential impacts on affordability and reliability in a gated way,” Gibson said.
+Other utilities are also taking notice.
+Commonwealth Edison announced with fanfare in 2025 that it is powering the Illinois Quantum and Microelectronics Park, a 128-acre, multibillion-dollar campus on the site of the former U.S. Steel South Works on Chicago’s South Side that will be devoted to quantum technology and microelectronics innovation.
+The park is managed and operated by a research organization owned by the board of trustees of the University of Illinois and its anchor tenant, PsiQuantum, plans to house the first utility-scale, error-corrected quantum computer there. Other tenants include IBM and Infleqtion.
+The announcement said ComEd is delivering “the advanced energy infrastructure needed to support utility-scale quantum computing, including cryogenic cooling systems and grid enhancements.”
+Gil Quiniones, President and CEO of ComEd, said in a news release that quantum technology has “extraordinary potential” to fuel breakthroughs in major economic sectors, including energy.
+Constellation Energy is also supporting research at the park focused on quantum computing use cases in the energy sector, including nuclear reactor fuel assembly, according to an April statement .
+In an email to Utility Dive, Constellation Spokesperson David Snyder said q uantum computing systems are projected to require relatively modest amounts of power and are unlikely to materially affect power demand in the foreseeable future.
+Duke Energy is working with IBM Quantum and others to build “foundational quantum literacy” as the technology evolves, said Wijesundara.
+It is “one of the lowest-risk and highest-value investments we can make” in something that is “potentially transformative” for utilities, he added.
+Instead of computer code’s ones and zeroes, quantum computing uses qubits, which can exist as both zeros and ones through the principles of quantum mechanics, EPRI’s Renshaw said.
+Qubits allow quantum computers to work in “vast solution spaces simultaneously, exponentially speeding up problem solving,” he added.
+Physicists widely disagree on why particles can simultaneously be in two states, and the biggest agreement is only among 36% of respondents to a 2025 Nature poll . But the principles of quantum mechanics have been experimentally verified since 1927 and physicists have found important use cases for it, like laser technology, Nature said.
+The implications for those that know how to use quantum computing will be potentially paradigm-changing solutions across the economy, but for a relatively small set of challenges in each sector, experts say.
+Quantum computing uses particles like photons, ions and atoms as “qubits” to store quantum information, EPRI’s Renshaw said. But in today’s “noisy intermediate-scale quantum” computing, qubits are fragile, often lose quantum information, and cause errors, he added.
+To prevent errors, researchers form “logical” qubits from multiple physical qubits that “behave as one stable, reliable qubit,” Renshaw said.
+It is those logical qubits that are enabling more accurate “fault-tolerant quantum computing” to emerge. As a result, quantum computing is making near exponential improvement that will lead to maturity much faster than in classical computing, he added.
+Renshaw said he expects that the market tipping point will be around 2028 to 2030 when quantum processing units, or QPUs, can process 100 logical qubits. That amount of accurate quantum computing could enable optimizing a microgrid or small service territory, he said.
+Bob Sorensen, chief analyst for quantum computing at Hyperion Research, said on the July 16 episode of Latitude Media’s Catalyst podcast that s ome 85 companies are vying to be quantum computing hardware suppliers. That does not count research centers or utilities in pursuit of how to use that hardware.
+He cautioned, however, that significant performance gains may be four years away and widespread use is likely a decade away. Aspiring quantum hardware providers could go belly up, which could slow technology investment and progress, he added.
+Prabhakar, from Schneider, said that though quantum computing is not commercially available at scale, the near-term future will include hybrid computing with AI CPUs and GPUs and quantum computing QPUs.
+AI will continue “to unlock value across more use cases,” and quantum computing will unlock value “in high-stakes, computationally intractable problems where no other tool works,” she said.
+
+In addition to its promise, quantum computing also poses a threat. It will make currently used encryption methods “obsolete,” energy technology company Landis+Gyr wrote in late 2025 .
+“As soon as 2030, a sufficiently powerful quantum computer could break that encryption in minutes,” it warned.
+Anticipating that quantum cybersecurity issues will soon be a threat to the power system, NIST finalized post-quantum cryptographic standards in 2024, Schneider’s Prabhakar said. Utilities must act to meet those standards now, because “waiting is not a defensible posture,” she added.
+Beyond cybersecurity, optimizing real-time dispatch is the use case most likely to first meet the energy-per-useful-solution metric that will define quantum computing’s value to utilities, she said. Just as AI is now being measured in tokens per watt, quantum computing will be held to what works at a “total system energy cost” that makes it worth deploying, she added.
+Utilities must also plan infrastructure to meet the new loads, which “is the lesson AI did not follow,” Prabhakar continued.
+While it remains uncertain how much space or energy demand quantum computing will ultimately require, utilities need to track quantum developments and translate them into infrastructure decisions “inside the planning process,” she said.
+Schneider’s Aparna sees three uncertainties in how quantum computing will evolve into utility use.
+First, utilities cannot waste resources by over-committing too soon, but they must also not make the same mistake they made with AI by ignoring it for too long, she said. They should “build optionality into infrastructure decisions now,” she added.
+That flexibility will also resolve the uncertainty of the market’s ultimate choice among today’s competing “superconducting, ion trap, photonic, and neutral atom” modalities, Prabhakar said.
+The third uncertainty is quantum computing’s electricity demand, which is why utilities need to be part of the early discussions about standards for electricity use, she added.
+EPB’s Swingle agreed. Utilities need to establish a presence in the Quantum Economic Development Consortium , which is developing ties with policymakers, he added.
+But the greater and more immediate need is for utilities to organize their data in preparation, he said, adding that quantum computing’s ability to work with an unprecedented depth of data will be less valuable if utilities do not have the data readily available to process.
+For Duke, the biggest uncertainty about quantum computing is when large-scale, fault-tolerant, economically advantageous systems will become available to begin developing planning and dispatch optimizations, Wijesundara said.
+“Hardware scalability, error correction, software tooling, and algorithm maturity remain active areas of research,” as are the applications of greatest value, he said. All of these factors would contribute to the maturity needed for utilities to use quantum computing to optimize dispatch.
+But quantum is coming and it is coming fast, Renshaw said. Just as things like drones, cloud computing and AI were thought to be hypothetical in the last decade and are now normal, quantum computing could be widely deployed and normal in the 2030s, he said.
+Correction: This story has been updated to correct the title of Middle Tennessee Electric's chief operating officer, Brad Gibson, in a pull quote.
+Get the free daily newsletter read by industry experts
+As states target utilities’ return on equity, Pepco’s rate case in Maryland, where the consumer advocate is arguing for an ROE cut, is being closely watched.
+We have updated this list to add electric power industry events covering transmission and distribution, affordability, customer service, microgrids and more.
+Keep up with the story. Subscribe to the Utility Dive free daily newsletter
+Subscribe to Utility Dive for top news, trends & analysis
+Sign up for the free newsletter.
+Interested? Explore more of what has to offer.
+Thanks for signing up!
+            Please keep an eye out for a confirmation email from [email protected] To ensure we make it into your inbox regularly,
+            add us to your allow list, mark us as a safe sender, or add us to your address book.
+            Check out more from
+Get the free daily newsletter read by industry experts
+As states target utilities’ return on equity, Pepco’s rate case in Maryland, where the consumer advocate is arguing for an ROE cut, is being closely watched.
+We have updated this list to add electric power industry events covering transmission and distribution, affordability, customer service, microgrids and more.
 The free newsletter covering the top industry headlines"
 Why Rigetti Computing Stock Just Popped,https://www.fool.com/investing/2026/07/27/why-rigetti-computing-stock-just-popped/?source=iedfolrf0000001,20260727T204500Z,English,United States,"Quantum computing stock Rigetti Computing ( RGTI +1.07% ) jumped a lucky 7.7% through 11:50 a.m. ET Monday morning -- and in part, it's got a competitor to thank for it.
+This morning, rival quantum stock D-Wave Quantum ( QBTS +1.29% ) announced that AT&T ( T +1.26% ) will use D-Wave's technology ""to address complex optimization challenges across its network operations.""
+Image source: Getty Images.
+AT&T will use D-Wave's ""annealing quantum computing technology"" to find optimal solutions to complex mathematical problems, aiming to make AT&T's AI agents more efficient when optimizing data traffic and detecting network outages. AT&T is also evaluating other quantum computing technologies to improve its network, which may signal openness to using Rigetti's quantum systems as well.
+And that's not the only good news at Rigetti today. As StreetInsider reports, Benchmark analyst David Williams just initiated coverage of Rigetti stock with a buy rating and a $25 price target, indicating he sees potential for Rigetti to gain another 67% on top of the 7% it has already gained today!
+D-Wave's reaping the good news today, but Williams reminds that ""quantum computing ... is NOT a 'winner-takes-all' situation."" Different approaches to quantum could offer different advantages, and various approaches might work together complementarily to increase overall effectiveness.
+At this early stage , it's hard to tell how everything will play out. Thus, the analyst recommends taking a ""portfolio approach to investing in the sector"" -- buying a little of all the quantum stocks so as not to miss out entirely on any winners.
+That seems good advice. Most analysts agree that most quantum computing companies remain five or more years away from profitability. Rigetti might end up as one of the winners. Betting on the stock to rocket 67% in a year is probably overoptimistic.
+Rich Smith has no position in any of the stocks mentioned. The Motley Fool has no position in any of the stocks mentioned. The Motley Fool has a disclosure policy .
+*Average returns of all recommendations since inception. Cost basis and return based on previous market day close.
+Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+Making the world smarter, happier, and richer.
+© 1995 - 2026 The Motley Fool . All rights reserved.
+Market data powered by Xignite and Polygon.io .
+About The Motley Fool
+Our Services
+Around the Globe
+Free Tools
+Affiliates & Friends
+Quantum computing stocks may be the future -- but how far in the future are quantum profits?","Quantum computing stock Rigetti Computing ( RGTI +1.07% ) jumped a lucky 7.7% through 11:50 a.m. ET Monday morning -- and in part, it's got a competitor to thank for it.
 This morning, rival quantum stock D-Wave Quantum ( QBTS +1.29% ) announced that AT&T ( T +1.26% ) will use D-Wave's technology ""to address complex optimization challenges across its network operations.""
 Image source: Getty Images.
 AT&T will use D-Wave's ""annealing quantum computing technology"" to find optimal solutions to complex mathematical problems, aiming to make AT&T's AI agents more efficient when optimizing data traffic and detecting network outages. AT&T is also evaluating other quantum computing technologies to improve its network, which may signal openness to using Rigetti's quantum systems as well.
@@ -411,8 +777,89 @@ To accelerate commercialization, Anhui has launched an initiative encouraging qu
 Chinese quantum companies are also expanding internationally. Origin Quantum has begun exporting quantum computing equipment and cloud computing services, particularly to Belt and Road countries. In July 2026, Thailand's Chulalongkorn University announced a partnership with the University of Science and Technology of China and Chinese quantum computing company Unitary Quantum to jointly build Thailand's first trapped-ion quantum computer.
 While many challenges remain before large-scale quantum computing becomes commonplace, the industry's focus has already shifted from proving that quantum technology works to discovering where it can create real economic and social value.
 XINHUA
+Copyright 1994 - . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form.","HEFEI — Chinese scientists have reported a series of advances in weather forecasting and drug discovery powered by quantum technology, highlighting how a field once regarded as a distant scientific ambition is steadily transitioning from the laboratory to real-world use.
+Researchers from Fudan University and University of Science and Technology of China recently demonstrated that quantum machine learning could outperform large-scale classical neural networks in certain real-world weather forecasting tasks, including urban temperature and humidity prediction.
+In another breakthrough, Chinese tech company Origin Quantum and USTC researchers developed a quantum-enhanced graph neural network on China's independently developed superconducting quantum computer — Origin Wukong — that boosted HIV antiviral drug screening accuracy from 73 percent to 97 percent and Alzheimer's drug prediction accuracy from 64 percent to 70 percent.
+While fully fault-tolerant quantum computers remain years away, these advances reflect a broader reality: different branches of quantum technology are beginning to mature at different speeds, with applications already emerging in secure communications, healthcare, scientific research and industrial computing.
+Among them, quantum communication has moved furthest toward commercialization. More than 40 major Chinese cities have deployed metropolitan quantum communications networks, providing the infrastructure for quantum-secured services to move into commercial use.
+At China Telecom Quantum Group, visitors can try what appears to be an ordinary smartphone. Once users activate its quantum-encrypted calling function, conversations are secured using quantum key distribution, making intercepted communications unreadable.
+Quantum technology is also beginning to reshape healthcare. Every heartbeat generates an extremely weak magnetic field that conventional medical instruments cannot directly detect. Quantum sensors, however, can measure these tiny signals.
+One example is a magnetocardiography system developed by Chinese quantum technology company CIQTEK. Using quantum spin magnetometers, the system can complete a cardiac scan in just a few minutes, providing physicians with a new tool for early cardiovascular screening and risk assessment. The technology has already been deployed at several major hospitals in China.
+For now, the most promising path toward practical quantum computing lies not in replacing today's supercomputers, but in combining the strengths of both technologies.
+Inside the next-generation computing cluster in Hefei, capital of Anhui province, China's first locally deployed hybrid quantum supercomputing center combines a high-performance supercomputer with two superconducting quantum computers and one trapped-ion quantum computer.
+""We break a large computational problem into smaller tasks,"" said Wang Guyue, director of the project management center at Hefei Big Data Asset Operation Co, operator of the computing center.
+""Subproblems that have relatively simple inputs and outputs but extremely complex calculations are processed by quantum computers, while the remaining tasks stay on the classical system,"" Wang said. ""We see quantum computing as complementing rather than replacing classical computing.""
+The commercial potential is already beginning to emerge.
+Over the past two decades, Hefei has developed one of China's largest quantum technology ecosystems, bringing together more than 100 companies across the industrial chain.
+To accelerate commercialization, Anhui has launched an initiative encouraging quantum technologies to be tested in hundreds of real-world scenarios, from secure communications to renewable energy. Hefei is also establishing a 10-billion-yuan ($1.48 billion) fund to support emerging technologies, including quantum technology, according to Chen Jun, director of the Anhui provincial development and reform commission.
+Chinese quantum companies are also expanding internationally. Origin Quantum has begun exporting quantum computing equipment and cloud computing services, particularly to Belt and Road countries. In July 2026, Thailand's Chulalongkorn University announced a partnership with the University of Science and Technology of China and Chinese quantum computing company Unitary Quantum to jointly build Thailand's first trapped-ion quantum computer.
+While many challenges remain before large-scale quantum computing becomes commonplace, the industry's focus has already shifted from proving that quantum technology works to discovering where it can create real economic and social value.
+XINHUA
 Copyright 1994 - . All rights reserved. The content (including but not limited to text, photo, multimedia information, etc) published in this site belongs to China Daily Information Co (CDIC). Without written authorization from CDIC, such content shall not be republished or used in any form."
 The Quantum Frontier : How Quantum Computing Is Reshaping Our Future,https://www.forbes.com/sites/chuckbrooks/2026/06/13/the-quantum-frontier-how-quantum-computing-is-reshaping-our-future/,20260613T210000Z,English,United States,"By Chuck Brooks ,
+Contributor.
+Quantum computing was once considered a distant scientific project that could revolutionize computing. That discussion has shifted drastically today. Quantum technologies have progressed beyond lab trials and theory. Emerging quantum capabilities include commercial quantum platforms, quantum networking projects, quantum sensor advancements, and powerful quantum processors.
+Advances in recent years suggest we are entering the Quantum Frontier Era. National security, science, economic competitiveness, and cybersecurity will all feel the impact. The quantum age has begun. It's started.
+A couple of years ago, I wrote for Forbes on how quantum computing could alter data processing, analytics, and AI. The dedication to this change is astonishing, and these predictions are coming true. See: Quantum Computing Has Arrived; We Need To Prepare For Its Impact
+Large IT corporations, governments, defense agencies, and venture-backed startups are investing billions in quantum research and commercialization. Quantum computing, which was valued at $8.6 billion in 2024, is expected to grow by 32–38% annually until 2030.
+The US has donated over $1.2 billion to the National Quantum Initiative, while China is apparently investing significantly more in quantum infrastructure and talent. The world today views quantum technology as a strategic requirement rather than an academic curiosity, as seen by this level of public and commercial investment.
+Developments in quantum networking, photonic architectures, error correction, and qubit stability stimulate innovation. Numerous quantum systems demonstrated unimaginable capabilities a few years ago.
+Quantum computers use qubits that leverage superposition and entanglement to process information in ways classical bits cannot, enabling solutions to problems previously insurmountable for even the most advanced supercomputer.
+Google recently showed that increasing the number of qubits actually lowered mistakes, a long-standing challenge that many thought was unsolvable. Their Willow quantum processor achieved error rates below a crucial threshold. These advances in fault-tolerant quantum computing are major improvements.
+Quantum gateway technology is a significant advance. Quantum computing has expanded beyond research. Cloud-accessible quantum platforms, gateways, and hybrid architectures are connecting quantum resources to core enterprise infrastructure. Businesses can now remotely utilize quantum computing capabilities for simulation, optimization, and research. This is a vital step toward wider adoption.
+Future quantum gateways may connect quantum and conventional computing environments. As quantum acceleration designs improve, organizations can use it without replacing existing infrastructure. That change resembles early cloud computing. Before becoming fundamental, cloud technology was experimental. Quantum computing seems to be following a similar path.
+Most industries will feel the impact of quantum computing:
+An organization
+According to recent discoveries, quantum computing may be reaching a turning point. Companies including IBM, Google, D-Wave, and emerging photonic quantum corporations are improving processing performance, scalability, and error correction. Meanwhile, IonQ, Quantinuum, QCI, and others have demonstrated quantum advantage in certain problem domains beyond theory. This may significantly reduce operating expenses and accelerate commercial deployment.
+Emerging practical applications must be prioritized. Companies using quantum simulation in battery materials research claim a 30–50% speedup in discovery cycles. Routing efficiency increased 5-20% in early quantum optimization experiments for real-world logistics situations.
+Commercial quantum sensing timing and navigation applications are ongoing, with implications for GPS-denied environments. Despite being less powerful than quantum computing, several applications provide substantial benefit now.
+*Biotechnology, drug discovery
+*Advanced materials science
+*Research on fusion and energy optimization
+* Financial modelling and portfolio optimization
+*Supply chain management
+*Creating climate models
+*Space and satellite operations
+Over the next decade, quantum computing’s ability to handle complex optimization and simulation problems might release trillions of dollars in economic value. Quantum technology is a major technological achievement, comparable to the internet.
+Even though quantum computing is one of the largest cybersecurity challenges ever, it has several positives. Businesses must prepare for ""Q-Day,"" when a powerful quantum computer can break public-key cryptography that protects much of our digital world.
+Modern encryption methods like RSA and elliptic curve cryptography protect global banking, government communications, military systems, healthcare records, cloud computing, and key infrastructure. A big fault-tolerant quantum computer could make many of these protections obsolete.
+Concerningly, adversaries don't have to wait until Q-Day. They can perform ""Harvest Now, Decrypt Later"" procedures, harvesting encrypted data today to decrypt it when quantum capabilities are available. Critical information including intellectual property, military intelligence, medical records, and government secrets may be in danger.
+U.S. intelligence services publicly warn that enemies are likely gathering encrypted communications for future decryption, notably sensitive military and diplomatic conversations and intelligence with decades-long classification periods. Therefore, encrypted data is immediately vulnerable.
+Recent assessments indicate that Q-Day may be moving faster than expected. Top cryptography researchers now expect cryptographically relevant quantum computers that can crack RSA-2048 encryption within the next few years, instead of 15–30 years as they did five years ago.
+Some academics believe the threat window may decrease more due to rapid qubit scaling. Google researchers' publicly updated estimations of cryptography system cracking resources have made government and business more urgent. The truth is that organizations that delay planning may miss the transformation window.
+Good news: solutions are emerging. Under NIST's leadership, cybersecurity technologies like Post-Quantum Cryptography (PQC) have improved. Novel cryptography techniques are designed to defend against quantum computers. NIST standardized the first post-quantum cryptography algorithms in August 2024 after a multi-year review.
+Implementation is very young, though. The majority of large firms have not started cryptographic inventory operations, and only 5% have implemented PQC. The main weakness is the implementation gap.
+PQC is more than technology. Organization around PQC is needed to:
+*List all corporation cryptographic assets
+*Create cryptographic inventories and software BOMs.
+*Upgrade old systems
+*Develop quantum readiness plans.
+*Practice crypto-agility
+*Account for quantum risk in governance.
+With substantial system migrations within five to seven years, NIST urges critical infrastructure operators and government agencies to deploy PQC immediately. Companies with complex legacy infrastructures need this schedule. In my writings and book Inside Cyber, I've underlined that cybersecurity is becoming more predictive than reactive. Organizations will benefit strategically from early preparedness. Delays may have major operational and security consequences.
+The story of AI and quantum computing may be the most important. Together, these technologies will transform industry, cybersecurity, scientific research, and social problem-solving.
+Perhaps the most revolutionary innovation is quantum computing and AI. Technological convergence, not a single technology, guides the future. Sensors, cloud computing, AI, quantum computing, 5G, and space systems are emerging together.
+Especially complementary are AI and quantum computing. AI can improve quantum algorithm optimization, system design, and error correction. Quantum computing may solve optimization problems and complex computations that traditional computers cannot, boosting AI's computational capacity.
+AI is used to improve quantum circuit design, predict and rectify quantum process errors, and evaluate which jobs are most suited for quantum acceleration. This feedback loop can boost both fields.
+Though theoretical predictions suggest quantum systems could accelerate AI optimization tasks by 10^6 or more for specific problem classes, quantum machine learning remains experimental.
+In AI, portfolio optimization, medicine development, and materials science optimization are early quantum advantage candidates. With these capabilities, computational feasibility will alter significantly. Quantum and AI could redefine:
+*Threat detection, cybersecurity
+*High-quality science
+*Defense systems nationwide
+*Financial forecasts
+*Developing medications
+*Logistics optimization
+*Self-sufficient structures
+*Climate/environment modeling
+The takeaway is that AI and quantum computing may be the most disruptive technology ever. The digital intelligence era may be shaped by AI-quantum convergence, as steam power was during the Industrial Revolution and the internet during the Information Age.
+Quantum technologies are becoming geopolitical weapons. Quantum research, infrastructure, workforce development, and commercialization are attracting considerable investments from the US, China, the EU, UK, Japan, Canada, and others. International investment and competition are massive.
+Quantum leadership will affect economic growth, military might, intelligence, cybersecurity, and technical sovereignty. Leading quantum technology nations will benefit in communications, computers, defense, and science. This reality prompts global government funding and quantum strategy.
+As the quantum ecosystem develops, one critical concern has emerged: hardware breakthroughs are accelerating, but organizational, workforce, and software readiness is still lacking. Compared to five-year demand, current estimates show a global shortage of over 10,000 quantum-specialized personnel.
+Organizations lack quantum algorithms for their problems, and integration pathways remain unclear. Some companies that recognize quantum technology’s importance lack a feasible deployment strategy. This suggests that organizations that delay their preparations risk cybersecurity threats and a competitive disadvantage in obtaining quantum-enabled value.
+When quantum technology evolves, companies that start studying applications now, even in pilot and experimental environments, will move quickly.
+New computing paradigms are appearing. Photonic computing, error correction, scalable quantum architectures, quantum gateway systems, and quantum networking are accelerating the transition from experimental to practical technologies. Businesses and governments must act rapidly due to Q-Day.
+Technology disruption-detecting companies will succeed. Now, quantum technology is possible. This is becoming possible. The businesses, governments, and leaders who prepare for post-quantum security, quantum-enabled innovation, and AI-quantum convergence will influence human progress.
+The quantum frontier. It is no longer valid to ask if quantum technology might change the world. The question is who will be prepared when they do.","By Chuck Brooks ,
 Contributor.
 Quantum computing was once considered a distant scientific project that could revolutionize computing. That discussion has shifted drastically today. Quantum technologies have progressed beyond lab trials and theory. Emerging quantum capabilities include commercial quantum platforms, quantum networking projects, quantum sensor advancements, and powerful quantum processors.
 Advances in recent years suggest we are entering the Quantum Frontier Era. National security, science, economic competitiveness, and cybersecurity will all feel the impact. The quantum age has begun. It's started.
@@ -499,6 +946,29 @@ IQM Quantum Computers (Nasdaq: IQMX) is a global leader in superconducting quant
 
 View source version on businesswire.com: https://www.businesswire.com/news/home/20260708006791/en/
 Contacts:
+IQM Media contact: Email: press@iqm.tech M: +49 151 1843 4887","The LUMI AI Factory, led by CSC IT Center for Science, has selected IQM Quantum Computers (Nasdaq: IQMX) to deliver IQM Halocene H4, an advanced quantum computer aimed at accelerating hybrid high-performance computing, artificial intelligence, and quantum computing capabilities.
+This press release features multimedia. View the full release here: https://www.businesswire.com/news/home/20260708006791/en/
+LUMI AI Factory selects IQM to deploy advanced quantum computer, accelerating hybrid HPC and AI development
+IQM Halocene H4 is the first and most advanced on-premises superconducting quantum computer of its kind, combining quantum error correction with NISQ qubits. The system will be delivered in 2027, followed by a series of upgrades delivered in multiple phases with an increasing number of logical qubits.
+The IQM Halocene H4 and the upgraded systems will enable LUMI consortium users, for the first time, to develop and implement Quantum Error Correction (QEC) concepts on a world-leading system.
+The system will be used in joint R&D efforts towards fault-tolerant quantum computing and advancements in hybrid computing. This will support new inventions on the critical path to fault-tolerant quantum computing and to enable new commercialization opportunities.
+This forward-looking development path ensures that European users can experiment today while preparing for fully scalable quantum platforms tomorrow. The system will also provide European end-users with the high-performance quantum computing resources needed for research and innovation, and for building national know-how and expertise.
+""CSC and the LUMI AI Factory are exactly the kind of partners that define what production quantum computing looks like in practice world-class HPC infrastructure, a deep commitment to research excellence, and the ambition to lead rather than follow,"" said Jan Goetz, CEO and Co-founder, IQM Quantum Computers. ""Delivering IQM Halocene to CSC means Europe's most powerful quantum computer will sit at the heart of one of the world's leading research computing environments. This is a milestone for IQM, CSC, for Finland, and for the European quantum ecosystem.""
+The system, named LUMI-IQ, will be integrated into the LUMI AI Factory at CSC IT Center for Science, Finland's national center of expertise in information technology and home to the LUMI supercomputer, one of the world's most powerful supercomputers.
+This integration of quantum technologies with AI and high-performance computing opens the door to breakthroughs that classical computing alone cannot achieve. LUMI-IQ will comprise both hardware and software solutions, offering capabilities for research, development, and education.
+""As part of the LUMI AI Factory, LUMI-IQ will bring together world-leading AI, data, high-performance computing and quantum acceleration in one powerful hybrid environment. By connecting quantum concepts and algorithms with intelligent software tools and real-world applications, it will open new possibilities for scientific discovery and RDI, from materials and health to energy and fundamental science. At the same time, it will help Europe build the knowledge, skills, and capabilities needed for the next era of innovation, including the path toward fault-tolerant quantum computing,"" said Kimmo Koski, Managing Director of CSC IT Center for Science.
+""Already the first system delivered in 2027 will come with a state-of-the-art quantum processing unit (QPU) with 150 qubits. This is only the beginning, however. Over the next years, LUMI-IQ will evolve into a fault-tolerant quantum computer through a series of upgrades that increase both qubit count and performance, making the LUMI AI Factory a world-leading European hybrid platform combining AI and quantum computing,"" describes Mikael Johansson, Manager for Quantum Technologies at CSC IT Center for Science.
+The LUMI-IQ quantum computer will be jointly funded by the EuroHPC Joint Undertaking, Finland, Czechia, Norway and Poland.
+As disclosed in IQM's prospectus on 1 July 2026, the total value of the contract is approximately equal to IQM's total revenue for the financial year ended 31 December 2025.
+This announcement follows IQM's landmark dual listing on Nasdaq in the United States and the Helsinki Stock Exchange in Finland, making it the first European quantum computing company to be publicly traded.
+IQM has sold 23 quantum systems globally more than any other quantum hardware manufacturer with its systems integrated into four of the leading supercomputing centers in the world.
+About CSC IT Center for Science
+CSC is a Finnish center of expertise in ICT that provides world-class services for research, education, culture, public administration and enterprises, to help them thrive and benefit society at large. www.csc.fi
+About IQM Quantum Computers
+IQM Quantum Computers (Nasdaq: IQMX) is a global leader in superconducting quantum computers, delivering full-stack quantum systems and cloud platform access to enterprises, research institutions, universities, high-performance computing centers, and national laboratories worldwide. IQM's on-premises deployment model gives customers direct ownership and control of their quantum infrastructure. Founded in 2018 and headquartered in Finland, with major operations in Munich, IQM employs over 400 people and operates across Europe, Asia, and North America. IQM is the first publicly listed European quantum company on Nasdaq Stock Market.
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20260708006791/en/
+Contacts:
 IQM Media contact: Email: press@iqm.tech M: +49 151 1843 4887"
 "LUMI AI Factory Selects IQM to Deploy Advanced Quantum Computer , Accelerating Hybrid HPC and AI Development",https://thestarphoenix.com/press-releases/business-wire/lumi-ai-factory-selects-iqm-to-deploy-advanced-quantum-computer-accelerating-hybrid-hpc-and-ai-development/,20260708T124500Z,English,Canada,"Share this article
 The Halocene H4 quantum computer, named LUMI-IQ, will be delivered and installed in 2027 The system will be hosted at CSC – IT Center for Science in Finland and integrated into the LUMI AI Factory The system will provide researchers, industry innovators, and developers across Europe with a unique, advanced experimental platform where quantum computing...
@@ -506,8 +976,51 @@ ESPOO, Finland —  The LUMI AI Factory, led by CSC – IT Center for Science, h
 IQM Halocene H4 is the first and most advanced on-premises superconducting quantum computer of its kind, combining quantum error correction with NISQ qubits. The system will be delivered in 2027, followed by a series of upgrades delivered in multiple phases with an increasing number of logical qubits.
 The IQM Halocene H4 and the upgraded systems will enable LUMI consortium users, for the first time, to develop and implement Quantum Error Correction (QEC) concepts on a world-leading system.
 © Copyright & Licensing 2026, Postmedia Network Inc.
+All rights reserved.","Share this article
+The Halocene H4 quantum computer, named LUMI-IQ, will be delivered and installed in 2027 The system will be hosted at CSC – IT Center for Science in Finland and integrated into the LUMI AI Factory The system will provide researchers, industry innovators, and developers across Europe with a unique, advanced experimental platform where quantum computing...
+ESPOO, Finland —  The LUMI AI Factory, led by CSC – IT Center for Science, has selected IQM Quantum Computers (Nasdaq: IQMX) to deliver IQM Halocene H4, an advanced quantum computer aimed at accelerating hybrid high-performance computing, artificial intelligence, and quantum computing capabilities.
+IQM Halocene H4 is the first and most advanced on-premises superconducting quantum computer of its kind, combining quantum error correction with NISQ qubits. The system will be delivered in 2027, followed by a series of upgrades delivered in multiple phases with an increasing number of logical qubits.
+The IQM Halocene H4 and the upgraded systems will enable LUMI consortium users, for the first time, to develop and implement Quantum Error Correction (QEC) concepts on a world-leading system.
+© Copyright & Licensing 2026, Postmedia Network Inc.
 All rights reserved."
 QpiAI Open - Sources Its Quantum SDK to Accelerate Global Quantum Software Development,https://www.thehindu.com/brandhub/pr-release/qpiai-open-sources-its-quantum-sdk-to-accelerate-global-quantum-software-development/article71197345.ece,20260708T101500Z,English,India,"You are logged in
+Loading...
+You don’t have any Active Subscription.
+Subscribed with another email? Logout and Login with that one.
+Your active subscription(s)
+Account subscription benefits alongside Premium Stories, Editorials,
+              Opinions and more. Unlock these with Subscription
+Products you've access to
+Additional Subscription Benefits
+Account Settings
+Need help with your subscription?
+July 25, 2026 e-Paper
+The View From India Looking at World Affairs from the Indian perspective.
+First Day First Show News and reviews from the world of cinema and streaming.
+Today's Cache Your download of the top 5 technology stories of the day.
+Science For All The weekly newsletter from science writers takes the jargon out of science and puts the fun in!
+Data Point Decoding the headlines with facts, figures, and numbers
+THEdge At the cutting edge of education and careers
+Health Matters Ramya Kannan writes to you on getting to good health, and staying there
+Gender Agenda Stories from beyond the binary.
+The Hindu On Books Books of the week, reviews, excerpts, new titles and features.
+July 25, 2026 e-Paper
+Published - July 08, 2026 03:12 pm IST
+QpiAI, a globally leading full-stack quantum computing company, today released the QpiAI Quantum SDK as open-source software. Available now at https://github.com/qpiai/quantum-sdk , the QpiAI Quantum SDK gives developers, researchers, and startups an accessible, developer-friendly toolkit to build and run quantum algorithms and to connect their quantum development workflows directly to QpiAI’s 8-qubit and 25-qubit quantum computers through QpiAI-QCloud ( https://qcloud.qpiai.tech/ ).
+The release is designed to expand access to quantum software development for developers, researchers, universities, startups, and enterprise innovation teams worldwide. By open-sourcing the SDK, QpiAI is giving the global quantum community a practical foundation for building industry-specific quantum solutions across finance, logistics, materials, chemistry, security, AI, optimization, and advanced scientific computing.
+The QpiAI Quantum SDK provides a Python-based interface for circuit creation, simulation, algorithm development, and workflow execution. It ships with local state-vector and density matrix simulators, letting developers prototype and validate algorithms locally before running them on quantum hardware. It is also designed for AI-assisted and agentic development workflows, helping users move faster from idea to implementation while prototyping quantum applications.
+The QpiAI Quantum SDK gives institutions a ready foundation for quantum computing coursework, research labs, hackathons, capstone projects, and hands-on developer training programs. QpiAI is actively positioning the SDK for use across university programs, research groups, developer communities, hackathons, and quantum application labs, enabling hands-on learning in quantum computing, algorithms, optimization, simulation, and machine learning. Early institutional adopters of the QpiAI Quantum SDK globally will be eligible to join the QpiAI Academic & Innovation Network, giving universities, research labs, and institutions preferential commercial terms on QpiAI QCloud institutional packages.
+“India is entering a defining decade for quantum technologies, and open-source software will be critical to building the talent, research, and innovation base that national leadership requires. India being a leader for software in the last decade and globally known for its software capability will aggressively open-source software and enable innovation in Quantum computing across the globe,” said Dr. Nagendra Nagaraja, Founder and CEO, QpiAI. “With this release, we want developers, universities, and startups to build on Indian and global quantum infrastructure and help create a globally competitive, indigenous quantum ecosystem. The convergence of quantum computing, AI, and agentic development will define the next generation of deep-tech platforms — and QpiAI is committed to building that capability from India to our global users, partners, and customers.”
+“Quantum computing will scale only when developers can experiment, learn, and deploy without friction,” said Lakshya Priyadarshi, VP – Quantum Platforms & Solutions, QpiAI. “The QpiAI Quantum SDK is a practical bridge between quantum theory, simulation, real hardware, and industry applications. By putting a strong software foundation in the hands of engineers and developers, we want to help build a diverse global quantum application ecosystem. The QpiAI Quantum SDK is the open developer gateway.”
+The release also strengthens QpiAI’s contribution to India’s quantum technology ecosystem and complements the broader goals of India’s National Quantum Mission.
+QpiAI is a full-stack quantum computing company building quantum processors, control systems, software platforms, and quantum-AI application solutions for enterprise, education, research, and national-scale quantum programs. QpiAI has built a quantum foundry in Bengaluru to support superconducting, semiconductor, and photonic qubit development. QpiAI is headquartered in Bengaluru, with offices in Helsinki, Finland; Milpitas, California, USA; and Singapore.
+Web: www.qpiai.tech
+Published - July 08, 2026 03:12 pm IST
+Copyright© 2026, THG PUBLISHING PVT LTD. or its affiliated companies. All rights reserved.
+BACK TO TOP
+Terms & conditions | Institutional Subscriber
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+We have migrated to a new commenting platform. If you are already a registered user of The Hindu and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.","You are logged in
 Loading...
 You don’t have any Active Subscription.
 Subscribed with another email? Logout and Login with that one.
@@ -569,8 +1082,46 @@ CNN’s Lisa Eadicicco contributed to this story.
 Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
 © 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved. CNN Sans ™ & © 2016 Cable News Network.
 Scan the QR code to download the CNN app on Google Play.
+Scan the QR code to download the CNN app from the Apple Store.","Markets
+Hot Stocks
+Fear & Greed Index
+Latest Market News
+Hot Stocks
+The US Department of Commerce is awarding $2 billion to American quantum-computing companies — half of which will go to IBM — to bolster the buildout of super computers that could solve some of the world’s most pressing problems .
+The move comes amid growing investment into quantum computing firms, which are racing to build computers that harness quantum mechanics to solve problems beyond the ability of even the most advanced computers.
+IBM estimates that quantum computing will generate up to $850 billion in economic value by 2040. McKinsey & Company , meanwhile, thinks that just four industries — namely, automotive, chemicals, financial services, and life sciences — stand to gain up to $1.3 trillion in value by 2035 from quantum computing.
+A $1 billion “incentive” from the Department of Commerce would support the research and development efforts of a new IBM company called Anderon, “America’s first pure-play quantum foundry,” IBM said in a statement Thursday.
+“This initiative represents one of the most significant commitments by the US government to date in quantum R&D to position the United States to manufacture most of the world’s quantum wafers,” the company added, referring to the building blocks of quantum computer chips.
+IBM said it would invest an addition $1 billion into Anderon, “with additional investors expected” as the company grows. Its shares gained nearly 4% at the open.
+Quantum computers are able to solve problems much faster than traditional computers, making them potentially game-changing in areas such as health, energy, defense and the environment.
+That’s because quantum systems work fundamentally differently compared to traditional computers, processing information at much higher speeds .
+But they also pose grave risks to cybersecurity .
+The long-predicted breakthrough in quantum computing — and the opportunities and threats it presents — has yet to emerge, however, even as the likes of IBM, Microsoft and Google continue working on the technology. That’s in part because enormous technical challenges still exist. For example, the “quantum bits” that quantum computers use to store and process information are extremely sensitive to external factors such as changes in temperature and light.
+The US government’s latest investment will also benefit smaller firms such as D-Wave Quantum and Rigetti Computing , which are both due to receive up to $100 million in exchange for equity in the companies. The companies’ shares gained 14% and 12% respectively.
+“We see this as a transformative moment for not just D-Wave, but also for quantum computing and the United States,” D-Wave CEO Alan Baratz said in a statement.
+Rigetti CEO Subodh Kulkarni said the investment would allow the company to scale more quickly, bringing it closer to “utility-scale quantum computing.”
+The funds will be disbursed under the CHIPS and Science Act. A total of nine quantum computing firms will benefit, the Wall Street Journal reported .
+“With today’s… investments in quantum computing, the Trump administration is leading the world into a new era of American innovation,” Secretary of Commerce Howard Lutnick said Thursday in a statement.
+CNN’s Lisa Eadicicco contributed to this story.
+Most stock quote data provided by BATS. US market indices are shown in real time, except for the S&P 500 which is refreshed every two minutes. All times are ET. Factset: FactSet Research Systems Inc. All rights reserved. Chicago Mercantile: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors. All rights reserved. Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P Dow Jones Indices LLC and have been licensed for use to S&P Opco, LLC and CNN. Standard & Poor’s and S&P are registered trademarks of Standard & Poor’s Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC. All content of the Dow Jones branded indices Copyright S&P Dow Jones Indices LLC and/or its affiliates. Fair value provided by IndexArb.com. Market holidays and trading hours provided by Copp Clark Limited.
+© 2026 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved. CNN Sans ™ & © 2016 Cable News Network.
+Scan the QR code to download the CNN app on Google Play.
 Scan the QR code to download the CNN app from the Apple Store."
 ORCA Computing Expands Commercial Quantum Presence Through Digital Realty Innovation Lab in London,https://www.finanznachrichten.de/nachrichten-2026-05/68590792-orca-computing-expands-commercial-quantum-presence-through-digital-realty-innovation-lab-in-london-004.htm,20260526T084500Z,English,Germany,"PT Series showcased in production-grade AI infrastructure environment at Digital Realty's new London Innovation Lab
+ORCA Computing a leading quantum computing company, announced today its participation in the newly launched Digital Realty Innovation Lab (DRIL) in London, a next-generation infrastructure testing environment developed by Digital Realty, the world's largest cloud-and carrier-neutral data center provider.
+The DRIL enables customers to test emerging AI and quantum technologies in live operational conditions before full-scale deployment, helping reduce risk and accelerate adoption. By bringing this capability to London, Digital Realty is expanding access to advanced infrastructure testing for organizations building next-generation compute environments across EMEA.
+The collaboration with Digital Realty represents another significant commercial milestone for ORCA, as enterprises increasingly explore how quantum acceleration can integrate alongside AI and HPC infrastructure. As part of the initiative, ORCA's PT Series photonic quantum systems will operate alongside leading AI and infrastructure technologies in a live environment, without the need for specialized cooling or infrastructure.
+""Working with ORCA gives customers direct access to one of the UK's leading quantum innovators and demonstrates how quantum technologies can be integrated into real-world enterprise and AI infrastructure environments today,"" said Seamus Dunne, Managing Director, Digital Realty UK and Ireland. ""Having ORCA integrated within the DRIL helps customers explore practical pathways to hybrid quantum-classical computing.""
+ORCA's latest deployment is proof of the company's data center-native approach to photonic quantum computing. This partnership solidifies ORCA's position as a leading quantum company and one of the only full-stack quantum computing companies able to quickly and effectively deploy in commercial environments.
+""ORCA was built around the idea that quantum computing should integrate directly into the infrastructure enterprises already rely on for AI and high-performance computing,"" said Richard Murray, PhD, Co-founder and Chief Executive Officer of ORCA Computing. ""As a London-based quantum company, it is exciting to be part of the launch of the Digital Realty Innovation Lab and to demonstrate our systems operating inside a commercial data center environment.""
+This announcement reinforces ORCA's continued momentum in advancing hybrid quantum-classical integration across generative AI and enterprise environments. Together with ORCA's growing ecosystem of strategic collaborations including, NVIDIA, Toyota Tsusho, SiC Systems and JIJ, ORCA continues to expand the deployment of photonic quantum systems within enterprise data center environments and real-world commercial deployments.
+About ORCA Computing
+ORCA Computing, headquartered in London, UK, with offices in the United States, is a leading developer and provider of full-stack photonic quantum computing systems. The company delivers an innovative approach to quantum computing, providing robust, high-performance, and data center-standard systems for machine learning, generative AI and optimization workloads. ORCA Computing has successfully delivered ten on-premises quantum computers to leading global customers, including the UK National Quantum Computing Centre, Montana State University, and the Poznan Supercomputing and Networking Center.
+For more information, please visit https://orcacomputing.com
+
+View source version on businesswire.com: https://www.businesswire.com/news/home/20260526782107/en/
+Contacts:
+ORCA Computing Media Contact: Juliet McGinnis media@orcacomputing.com","PT Series showcased in production-grade AI infrastructure environment at Digital Realty's new London Innovation Lab
 ORCA Computing a leading quantum computing company, announced today its participation in the newly launched Digital Realty Innovation Lab (DRIL) in London, a next-generation infrastructure testing environment developed by Digital Realty, the world's largest cloud-and carrier-neutral data center provider.
 The DRIL enables customers to test emerging AI and quantum technologies in live operational conditions before full-scale deployment, helping reduce risk and accelerate adoption. By bringing this capability to London, Digital Realty is expanding access to advanced infrastructure testing for organizations building next-generation compute environments across EMEA.
 The collaboration with Digital Realty represents another significant commercial milestone for ORCA, as enterprises increasingly explore how quantum acceleration can integrate alongside AI and HPC infrastructure. As part of the initiative, ORCA's PT Series photonic quantum systems will operate alongside leading AI and infrastructure technologies in a live environment, without the need for specialized cooling or infrastructure.
@@ -611,8 +1162,68 @@ Copyright© 2026, THG PUBLISHING PVT LTD. or its affiliated companies. All right
 BACK TO TOP
 Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
 We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
+Terms & conditions | Institutional Subscriber","-70.71
+-29.85
++ 57.00
++ 1,056.00
++ 425.00
+-70.71
+-29.85
+-29.85
++ 57.00
++ 57.00
++ 1,056.00
+QpiAI, a globally leading full-stack quantum computing company, today released the QpiAI Quantum SDK as open-source software. Available now at https://github.com/qpiai/quantum-sdk , the QpiAI Quantum SDK gives developers, researchers, and startups an accessible, developer-friendly toolkit to build and run quantum algorithms and to connect their quantum development workflows directly to QpiAI’s 8-qubit and 25-qubit quantum computers through QpiAI-QCloud ( https://qcloud.qpiai.tech/ ).
+The release is designed to expand access to quantum software development for developers, researchers, universities, startups, and enterprise innovation teams worldwide. By open-sourcing the SDK, QpiAI is giving the global quantum community a practical foundation for building industry-specific quantum solutions across finance, logistics, materials, chemistry, security, AI, optimization, and advanced scientific computing.
+The QpiAI Quantum SDK provides a Python-based interface for circuit creation, simulation, algorithm development, and workflow execution. It ships with local state-vector and density matrix simulators, letting developers prototype and validate algorithms locally before running them on quantum hardware. It is also designed for AI-assisted and agentic development workflows, helping users move faster from idea to implementation while prototyping quantum applications.
+The QpiAI Quantum SDK gives institutions a ready foundation for quantum computing coursework, research labs, hackathons, capstone projects, and hands-on developer training programs. QpiAI is actively positioning the SDK for use across university programs, research groups, developer communities, hackathons, and quantum application labs, enabling hands-on learning in quantum computing, algorithms, optimization, simulation, and machine learning. Early institutional adopters of the QpiAI Quantum SDK globally will be eligible to join the QpiAI Academic & Innovation Network, giving universities, research labs, and institutions preferential commercial terms on QpiAI QCloud institutional packages.
+“India is entering a defining decade for quantum technologies, and open-source software will be critical to building the talent, research, and innovation base that national leadership requires. India being a leader for software in the last decade and globally known for its software capability will aggressively open-source software and enable innovation in Quantum computing across the globe,” said Dr. Nagendra Nagaraja, Founder and CEO, QpiAI. “With this release, we want developers, universities, and startups to build on Indian and global quantum infrastructure and help create a globally competitive, indigenous quantum ecosystem. The convergence of quantum computing, AI, and agentic development will define the next generation of deep-tech platforms — and QpiAI is committed to building that capability from India to our global users, partners, and customers.”
+“Quantum computing will scale only when developers can experiment, learn, and deploy without friction,” said Lakshya Priyadarshi, VP – Quantum Platforms & Solutions, QpiAI. “The QpiAI Quantum SDK is a practical bridge between quantum theory, simulation, real hardware, and industry applications. By putting a strong software foundation in the hands of engineers and developers, we want to help build a diverse global quantum application ecosystem. The QpiAI Quantum SDK is the open developer gateway.”
+The release also strengthens QpiAI’s contribution to India’s quantum technology ecosystem and complements the broader goals of India’s National Quantum Mission.
+QpiAI is a full-stack quantum computing company building quantum processors, control systems, software platforms, and quantum-AI application solutions for enterprise, education, research, and national-scale quantum programs. QpiAI has built a quantum foundry in Bengaluru to support superconducting, semiconductor, and photonic qubit development. QpiAI is headquartered in Bengaluru, with offices in Helsinki, Finland; Milpitas, California, USA; and Singapore.
+Web: www.qpiai.tech
+“This is a company press release that is not part of editorial content. No journalist of The Hindu businessline was involved in the publication of this release.”
+Published on  July 8, 2026
+Copyright© 2026, THG PUBLISHING PVT LTD. or its affiliated companies. All rights reserved.
+BACK TO TOP
+Comments have to be in English, and in full sentences. They cannot be abusive or personal. Please abide by our community guidelines for posting your comments.
+We have migrated to a new commenting platform. If you are already a registered user of TheHindu Businessline and logged in, you may continue to engage with our articles. If you do not have an account please register and login to post comments. Users can access their older comments by logging into their accounts on Vuukle.
 Terms & conditions | Institutional Subscriber"
 "Quantum Annealers Deliver Value Today , but Gate - Based Enterprise Breakthroughs Remain Years Away , Finds Info - Tech Research Group",http://www.prnewswire.com/news-releases/quantum-annealers-deliver-value-today-but-gate-based-enterprise-breakthroughs-remain-years-away-finds-info-tech-research-group-883730153.html,20260727T201500Z,English,United States,"Searching for your content...
+In-Language News
+Contact Us
+888-776-0942 from 8 AM - 10 PM ET
+Jul 27, 2026, 15:27 ET
+Share this article
+As interest in quantum computing grows, many organizations face challenges in determining where the technology can deliver tangible business value. New insights from Info-Tech Research Group show that current applications remain concentrated in scientific exploration and highly complex optimization problems, while uncertainty around use cases and timelines continues to make investment decisions difficult. The firm's recently published blueprint, Identify and Evaluate Quantum Computing Use Cases , outlines a structured framework to help CIOs and CTOs assess feasibility, prioritize opportunities, and prepare for future advancements.
+ARLINGTON, Va. , July 27, 2026 /CNW/ -- Quantum computing continues to attract significant investment from governments, technology vendors, and research institutions, yet many organizations remain uncertain about where the technology can deliver meaningful business value. While advances in quantum hardware continue, identifying practical enterprise use cases and determining when organizations should invest remain significant challenges. To help CIOs and IT leaders make informed decisions, Info-Tech Research Group, a global IT research and advisory firm, has published its new blueprint, Identify and Evaluate Quantum Computing Use Cases , providing a practical framework to evaluate quantum opportunities based on business value, technical feasibility, and organizational readiness.
+
+Though gate-based quantum computing is often positioned as the next major breakthrough in enterprise technology, Info-Tech's blueprint findings suggest that widespread enterprise value from it remains years away, with a few exceptions. The firm notes that while AI has scaled rapidly across industries, quantum computing is expected to deliver value across a much narrower set of highly complex problems.
+""Some people view quantum computing as the next AI, but that comparison doesn't really hold up,"" says Brian Jackson , principal research director at Info-Tech Research Group. ""Quantum computing is far more specialized and harder to implement. But for the right kinds of problems, like complex molecular interactions in pharmaceutical or chemical manufacturing, it could be transformational. CIOs should focus on identifying targeted use cases now so they are prepared to act when the technology matures.""
+While large-scale, fault-tolerant quantum computers remain years away, Info-Tech's resource indicates that quantum annealing and quantum-inspired algorithms are already delivering value in select scenarios, particularly in solving complex optimization challenges.
+Focus on Five Key Types of Problems
+Info-Tech's methodology identifies five key types of problems where quantum computing shows the most potential:
+Even within these areas, the firm's findings reveal that only a limited subset of use cases is expected to deliver a true advantage, and often not in the near term. Info-Tech's blueprint highlights that significant commercial breakthroughs for gate-based quantum computing are most likely to emerge between 2032 and 2035 and will depend on highly complex applications in industries such as manufacturing, energy, and logistics.
+Organizational Readiness Remains a Barrier
+The Identify and Evaluate Quantum Computing Use Cases blueprint emphasizes that identifying a viable use case is only part of the challenge. Many organizations lack the specialized talent, infrastructure, partnerships, and strategic alignment required to act on quantum opportunities, which can delay progress even as the technology evolves.
+The firm advises that the priority today should be to explore and prepare rather than rush adoption. Enterprises that take a structured approach to evaluating use cases will be better positioned to capitalize on quantum computing as it matures.
+Info-Tech's Three-Step Approach to Identifying Quantum Computing Use Cases
+To support IT leaders in assessing and prioritizing potential opportunities in quantum computing, Info-Tech's blueprint outlines a structured three-step process:
+The firm's framework is supported by a quantum computing use case catalog, an actionable tool designed to help organizations evaluate opportunities and advance key phases of the roadmap.
+For timely and exclusive commentary from Info-Tech's experts, including Brian Jackson, and access to the complete Identify and Evaluate Quantum Computing Use Cases blueprint, please contact [email protected] .
+About Info-Tech Research Group
+Info-Tech Research Group is the ""get things done"" partner for over 30,000 IT, HR, and marketing leaders worldwide. The fastest growing research and advisory firm, Info-Tech enables leaders to make well-informed decisions and transform their organizations through AI, strategic foresight, step-by-step methodologies, practical tools, industry-leading advisory, and training programs. For nearly 30 years, tens of thousands of private and public organizations have trusted Info-Tech to lead their most important initiatives through periods of change and deliver outcomes that truly matter.
+To learn more about Info-Tech's HR research and advisory services, visit McLean & Company , and for data-driven software buying insights and vendor evaluations, visit the firm's SoftwareReviews platform.
+Media professionals can register for unrestricted access to research across IT, HR, and software and hundreds of industry analysts through the firm's Media Insiders program. To gain access, contact [email protected] .
+For information about Info-Tech Research Group or to access the latest research, visit infotech.com and connect via LinkedIn and X .
+SOURCE Info-Tech Research Group
+As interest and experimentation in agentic AI continue to accelerate, many organizations are finding that the gap between a promising design and a...
+As interest and experimentation in agentic AI continue to accelerate, many organizations are finding that the gap between a promising design and a...
+Publishing & Information Services
+High Tech Security
+Internet Technology
+Computer & Electronics
+Do not sell or share my personal information :","Searching for your content...
 In-Language News
 Contact Us
 888-776-0942 from 8 AM - 10 PM ET
