@@ -38,7 +38,7 @@ def scrape_articles(url_list):
         paragraphs = [paragraph.get_text(" ", strip=True)
                       for paragraph in soup.find_all("p")]
 
-        article_text = "\n".join(paragraphs)
+        article_text = " ".join(paragraphs)
         
         if len(article_text) > 500:
             article_texts.append({'url': url, 
