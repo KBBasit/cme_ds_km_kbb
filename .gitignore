@@ -4,3 +4,4 @@ cme-env_*/
 .DS_Store
 .vscode/
 .venv/
+__pycache__/
