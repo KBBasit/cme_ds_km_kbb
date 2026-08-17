@@ -3,3 +3,4 @@ cme-env_002/
 cme-env_*/
 .DS_Store
 .vscode/
+.venv/
