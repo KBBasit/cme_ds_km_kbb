@@ -10,6 +10,7 @@ MAX_RECORDS = 250
 def fetch_data(query: str,
                mode: str = "artlist",
                timespan: str = "3m",
+               num_attempts: int = 3,
                timeout: float = 30,
                max_records: int = MAX_RECORDS
                ):
@@ -19,6 +20,9 @@ def fetch_data(query: str,
         query (str): The search query to fetch data for.
         mode (str): The mode of data to fetch (e.g. articles, timeline volume).
         timespan (str): The timeframe for the data fetch (e.g., "3m" for 3 months).
+        num_attemps (int): Number of times to try for a successful request
+        timeout (float): Number of seconds before forcefully ending the request
+        max_records (int): Maximum number of records to retrieve per request
     Returns:
         json: The JSON response from the GDELT API.
     """
@@ -36,7 +40,7 @@ def fetch_data(query: str,
         "format": "json"
     }
 
-    for attempt in range(3):
+    for attempt in range(num_attempts):
         try:
             response = requests.get(DOC_API_URL, params=params, timeout=timeout)
             response.raise_for_status()
@@ -49,8 +53,9 @@ def fetch_data(query: str,
         except requests.exceptions.RequestException as e:
             print(f"Attempt {attempt + 1} failed: {e}")
             print(response.status_code)
-        if attempt < 2:
-            time.sleep(5)      
+        if attempt < (num_attempts - 1):
+            sleep_for = 5*(attempt + 1)
+            time.sleep(sleep_for)      
 
     raise Exception("Failed to fetch data from GDELT API after 3 attempts")
 
