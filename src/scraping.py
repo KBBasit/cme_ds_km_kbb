@@ -31,7 +31,8 @@ def scrape_articles(url_list):
         # Can it be parsed
         try:
             soup = BeautifulSoup(response.text, "lxml")
-        except Exception:
+        except Exception as e:
+            print(e)
             continue
 
         # Does the parsed page contain meaningful text
