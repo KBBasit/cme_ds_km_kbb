@@ -20,9 +20,9 @@ def fetch_data(query: str,
         query (str): The search query to fetch data for.
         mode (str): The mode of data to fetch (e.g. articles, timeline volume).
         timespan (str): The timeframe for the data fetch (e.g., "3m" for 3 months).
-        num_attemps (int): Number of times to try for a successful request
+        num_attemps (int): Number of times to try for a successful request (MAX 3)
         timeout (float): Number of seconds before forcefully ending the request
-        max_records (int): Maximum number of records to retrieve per request
+        max_records (int): Maximum number of records to retrieve per request (MAX 250)
     Returns:
         json: The JSON response from the GDELT API.
     """
@@ -31,6 +31,8 @@ def fetch_data(query: str,
         raise ValueError("ValueError: Invalid mode entered")
 
     max_records = 250 if max_records > 250 else max_records
+
+    num_attempts = 3 if num_attempts > 3 else num_attempts
 
     params = {
         "query": query,
