@@ -1,9 +1,18 @@
 import requests
 import time
 
+# CONSTANTS
+DOC_API_URL = "https://api.gdeltproject.org/api/v2/doc/doc"
+VALID_MODES = {"artlist"}
+MAX_RECORDS = 250
 
 
-def fetch_data(query, mode="artlist", timespan="3m"):
+def fetch_data(query: str,
+               mode: str = "artlist",
+               timespan: str = "3m",
+               timeout: float = 30,
+               max_records: int = MAX_RECORDS
+               ):
     """
     Fetches data from the GDELT API based on the provided query, mode and timeframe.
     Args:
@@ -13,24 +22,35 @@ def fetch_data(query, mode="artlist", timespan="3m"):
     Returns:
         json: The JSON response from the GDELT API.
     """
-    url = "https://api.gdeltproject.org/api/v2/doc/doc"
+
+    if mode not in VALID_MODES:
+        raise ValueError("ValueError: Invalid mode entered")
+
+    max_records = 250 if max_records > 250 else max_records
 
     params = {
         "query": query,
         "mode": mode,
         "timespan": timespan,
+        "maxrecords": max_records,
         "format": "json"
     }
 
     for attempt in range(3):
         try:
-            response = requests.get(url, params=params)
+            response = requests.get(DOC_API_URL, params=params, timeout=timeout)
             response.raise_for_status()
-            return response.json()
+            data = response.json()
+            return data
+        except requests.exceptions.JSONDecodeError as json_error:
+            print(f"Attempt {attempt + 1} failed: {json_error}")
+            print(response.status_code)
+
         except requests.exceptions.RequestException as e:
             print(f"Attempt {attempt + 1} failed: {e}")
-            if attempt < 2:
-                time.sleep(5)      
+            print(response.status_code)
+        if attempt < 2:
+            time.sleep(5)      
 
     raise Exception("Failed to fetch data from GDELT API after 3 attempts")
 
