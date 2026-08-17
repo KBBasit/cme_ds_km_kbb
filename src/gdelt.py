@@ -1,6 +1,8 @@
 import requests
 import time
 
+
+
 # CONSTANTS
 DOC_API_URL = "https://api.gdeltproject.org/api/v2/doc/doc"
 VALID_MODES = {"artlist"}
@@ -26,12 +28,10 @@ def fetch_data(query: str,
     Returns:
         json: The JSON response from the GDELT API.
     """
-
     if mode not in VALID_MODES:
         raise ValueError("ValueError: Invalid mode entered")
 
     max_records = 250 if max_records > 250 else max_records
-
     num_attempts = 3 if num_attempts > 3 else num_attempts
 
     params = {
@@ -51,15 +51,15 @@ def fetch_data(query: str,
         except requests.exceptions.JSONDecodeError as json_error:
             print(f"Attempt {attempt + 1} failed: {json_error}")
             print(response.status_code)
-
         except requests.exceptions.RequestException as e:
             print(f"Attempt {attempt + 1} failed: {e}")
             print(response.status_code)
+
         if attempt < (num_attempts - 1):
             sleep_for = 5*(attempt + 1)
             time.sleep(sleep_for)      
 
-    raise Exception("Failed to fetch data from GDELT API after 3 attempts")
+    raise Exception(f"Failed to fetch data from GDELT API after {num_attempts} attempts")
 
 
 def enrich_scraped_articles(scraped_articles, article_list):
